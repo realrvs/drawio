@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.5">
-  <diagram name="Page-1" id="esNg1MqTvClRY21yRmVA">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.5" pages="2">
+  <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1428" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -20,13 +20,27 @@
           <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dqSze4DZBbrqvfMmPsm-6" value="Реестр" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dqSze4DZBbrqvfMmPsm-7" value="Организация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dqSze4DZBbrqvfMmPsm-8" value="Контрагент" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="f0cLXvMaBeseRH8vRFZz" name="ER диаграмма">
+    <mxGraphModel dx="1428" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cKaByIbRkwaXBuY9zsX6-1" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cKaByIbRkwaXBuY9zsX6-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="cKaByIbRkwaXBuY9zsX6-1">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
