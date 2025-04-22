@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13" pages="4">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1428" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,17 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QmSMGV3oESxNqFYloTMI-1" value="Показывает, как система взаимодействует с внешними сущностями (пользователями, внешними системами). Сразу видно интеграции." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" width="760" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zv7aYNvz16J1QwCEkyZH" name="Архитектура C4 Container">
+    <mxGraphModel dx="1338" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h_v2WgCKhbIelDQp76lH-1" value="Описывает верхнеуровневую архитектуру и технологии. Используется для понимания технологического стека и разделения зон ответственности. Элементы: - контейнеры (например, веб-приложения, базы данных), - взаимосвязи, - технологии." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" width="760" height="30" as="geometry" />
         </mxCell>
       </root>
