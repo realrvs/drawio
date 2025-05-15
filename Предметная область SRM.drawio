@@ -537,7 +537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qF38-vKvsJ4a-qH5FAlQ" name="Планирование потребностей">
-    <mxGraphModel dx="1869" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,8 +550,8 @@
         <mxCell id="UGEy9kMgY1BWX_fHyoSo-3" value="Нажать &quot;Создание потребность&quot;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="200" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UGEy9kMgY1BWX_fHyoSo-4" value="Заполнить форму потребности" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="280" width="170" height="50" as="geometry" />
+        <mxCell id="UGEy9kMgY1BWX_fHyoSo-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Заполнить форму потребности&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;в т.ч. связать с номенклатурой&amp;nbsp; в Справочнике НСИ, при отсутствии номенклатуры - направить обращение в СПП о формировании записи&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;(направление заявки в СПП через кнопку в АИСУЗ)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="270" width="392" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UGEy9kMgY1BWX_fHyoSo-5" value="Проверка заполненния обязательных полей" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="370" width="170" height="50" as="geometry" />
@@ -861,7 +861,7 @@
           <mxGeometry x="730" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fuOtSCqT7V8_KaIeqaTt-10" value="Согласовано" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="1000" width="60" height="30" as="geometry" />
+          <mxGeometry x="900" y="1000" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fuOtSCqT7V8_KaIeqaTt-12" value="Заполнение формы Отмена согласования" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1090" width="140" height="50" as="geometry" />
@@ -922,7 +922,7 @@
             <mxPoint x="-275" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="zwebCuL8lai_OzPDBkWi-41" source="zwebCuL8lai_OzPDBkWi-5">
+        <mxCell id="zwebCuL8lai_OzPDBkWi-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-5" target="zwebCuL8lai_OzPDBkWi-41" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-10" y="540" as="sourcePoint" />
             <mxPoint x="52.1400000000001" y="610" as="targetPoint" />
@@ -934,13 +934,13 @@
         <mxCell id="zwebCuL8lai_OzPDBkWi-25" value="Потребность" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-454" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="zwebCuL8lai_OzPDBkWi-35" edge="1" source="zwebCuL8lai_OzPDBkWi-25">
+        <mxCell id="zwebCuL8lai_OzPDBkWi-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-25" target="zwebCuL8lai_OzPDBkWi-35" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-453" y="280" as="sourcePoint" />
             <mxPoint x="-558" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="zwebCuL8lai_OzPDBkWi-34" edge="1" source="zwebCuL8lai_OzPDBkWi-25">
+        <mxCell id="zwebCuL8lai_OzPDBkWi-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-25" target="zwebCuL8lai_OzPDBkWi-34" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-373" y="280" as="sourcePoint" />
             <mxPoint x="-268" y="320" as="targetPoint" />
@@ -963,6 +963,15 @@
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-39" value="Перевод сгруппированной потребности в статус &quot;Сформирован&quot;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="790" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="zwebCuL8lai_OzPDBkWi-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200" y="710" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-260" y="710" />
+              <mxPoint x="-260" y="925" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-40" value="Заявка на закупку согласована и доступна для группировки" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="640" width="170" height="50" as="geometry" />
@@ -1027,7 +1036,7 @@
             <mxPoint x="50" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-63" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-57" edge="1" target="zwebCuL8lai_OzPDBkWi-66">
+        <mxCell id="zwebCuL8lai_OzPDBkWi-63" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-57" target="zwebCuL8lai_OzPDBkWi-66" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-60" y="1130" as="sourcePoint" />
             <mxPoint x="-213" y="1190" as="targetPoint" />
@@ -1037,10 +1046,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-64" value="Основной лот" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="1102.5" width="91" height="25" as="geometry" />
+          <mxGeometry x="-498" y="1128.5" width="91" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-66" value="Добавление закупаемой продукции на основе потребностей" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-543" y="1160" width="170" height="50" as="geometry" />
+          <mxGeometry x="-543" y="1190" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-67" value="Наследование правил родительского лота" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="1190" width="170" height="50" as="geometry" />
@@ -1057,7 +1066,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-71" value="Статус:Дозакупка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="zwebCuL8lai_OzPDBkWi-71" value="&lt;strike&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Статус&lt;/font&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;:&lt;/font&gt;&lt;/strike&gt;Дозакупка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="39.5" y="1130" width="91" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-72" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-57" target="zwebCuL8lai_OzPDBkWi-67" edge="1">
@@ -1066,92 +1075,92 @@
             <mxPoint x="50" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-73" value="ИПЛ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-193" y="1140" width="76" height="10" as="geometry" />
+        <mxCell id="zwebCuL8lai_OzPDBkWi-73" value="&lt;font face=&quot;Helvetica&quot;&gt;ИПЛ&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot; face=&quot;Helvetica&quot;&gt;(кроме&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;«Отмена закупки» и «Повторное проведение»)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="1138" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-66" edge="1" target="zwebCuL8lai_OzPDBkWi-77">
+        <mxCell id="zwebCuL8lai_OzPDBkWi-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-66" target="zwebCuL8lai_OzPDBkWi-77" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-215" y="1350" as="sourcePoint" />
             <mxPoint x="-215" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwebCuL8lai_OzPDBkWi-77" value="Проверки: Дата постановки, Сумма лота, ОКПД2/ОКВЭД2" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-543" y="1270" width="170" height="50" as="geometry" />
+        <mxCell id="zwebCuL8lai_OzPDBkWi-77" value="Проверки: Дата поста&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;strike&gt;но&lt;/strike&gt;&lt;/font&gt;вки, Сумма лота, ОКПД2/ОКВЭД2" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-543" y="1308" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-78" value="" style="rhombus;" parent="1" vertex="1">
-          <mxGeometry x="-483" y="1360" width="50" height="50" as="geometry" />
+          <mxGeometry x="-483" y="1398" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-79" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-77" target="zwebCuL8lai_OzPDBkWi-78" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-120" y="1490" as="sourcePoint" />
-            <mxPoint x="-120" y="1550" as="targetPoint" />
+            <mxPoint x="-120" y="1528" as="sourcePoint" />
+            <mxPoint x="-120" y="1588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-80" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-78" target="zwebCuL8lai_OzPDBkWi-81" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-100" y="1520" as="sourcePoint" />
-            <mxPoint x="170" y="1581" as="targetPoint" />
+            <mxPoint x="-100" y="1558" as="sourcePoint" />
+            <mxPoint x="170" y="1619" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-255" y="1385" />
+              <mxPoint x="-255" y="1423" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-81" value="Лот создан" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="1430" width="170" height="50" as="geometry" />
+          <mxGeometry x="-340" y="1468" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-82" value="Корректировка данных" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-713" y="1430" width="170" height="50" as="geometry" />
+          <mxGeometry x="-713" y="1468" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-83" value="Ошибка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-599.5" y="1360" width="91" height="25" as="geometry" />
+          <mxGeometry x="-599.5" y="1398" width="91" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-84" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-78" target="zwebCuL8lai_OzPDBkWi-82" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-350" y="1560" as="sourcePoint" />
-            <mxPoint x="-503" y="1620" as="targetPoint" />
+            <mxPoint x="-350" y="1598" as="sourcePoint" />
+            <mxPoint x="-503" y="1658" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-628" y="1385" />
+              <mxPoint x="-628" y="1423" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zwebCuL8lai_OzPDBkWi-85" value="Успешно" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-399" y="1360" width="91" height="25" as="geometry" />
+          <mxGeometry x="-399" y="1398" width="91" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-1" value="Отправка на согласование" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-1" value="Отправка на согласование" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="500" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwebCuL8lai_OzPDBkWi-37" target="5Cq5FKQJQxOKhx30Qz0h-1">
+        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-37" target="5Cq5FKQJQxOKhx30Qz0h-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-290" y="500" as="sourcePoint" />
             <mxPoint x="-280" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Cq5FKQJQxOKhx30Qz0h-1" target="zwebCuL8lai_OzPDBkWi-5">
+        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5Cq5FKQJQxOKhx30Qz0h-1" target="zwebCuL8lai_OzPDBkWi-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-430" y="590" as="sourcePoint" />
             <mxPoint x="-430" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwebCuL8lai_OzPDBkWi-82" target="zwebCuL8lai_OzPDBkWi-77">
+        <mxCell id="5Cq5FKQJQxOKhx30Qz0h-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-82" target="zwebCuL8lai_OzPDBkWi-77" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-690" y="1320" as="sourcePoint" />
-            <mxPoint x="-512" y="1365" as="targetPoint" />
+            <mxPoint x="-690" y="1358" as="sourcePoint" />
+            <mxPoint x="-512" y="1403" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-760" y="1455" />
-              <mxPoint x="-760" y="1295" />
+              <mxPoint x="-760" y="1493" />
+              <mxPoint x="-760" y="1333" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ryEQn64t6xhFSGOaPd8j-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="1520" width="30" height="30" as="geometry" />
+        <mxCell id="ryEQn64t6xhFSGOaPd8j-1" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1558" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ryEQn64t6xhFSGOaPd8j-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwebCuL8lai_OzPDBkWi-81" target="ryEQn64t6xhFSGOaPd8j-1">
+        <mxCell id="ryEQn64t6xhFSGOaPd8j-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-81" target="ryEQn64t6xhFSGOaPd8j-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-140" y="1510" as="sourcePoint" />
-            <mxPoint x="-140" y="1570" as="targetPoint" />
+            <mxPoint x="-140" y="1548" as="sourcePoint" />
+            <mxPoint x="-140" y="1608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9iTMLcrymjwMxXr4YKwX-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwebCuL8lai_OzPDBkWi-41" target="zwebCuL8lai_OzPDBkWi-37">
+        <mxCell id="9iTMLcrymjwMxXr4YKwX-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-41" target="zwebCuL8lai_OzPDBkWi-37" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-520" y="490" as="sourcePoint" />
             <mxPoint x="-425" y="527" as="targetPoint" />
@@ -1161,16 +1170,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wcbdM0cyBYLdArCeKqma-1" value="Создание Потребности" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="wcbdM0cyBYLdArCeKqma-1" value="Создание Потребности" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-499" y="190" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wcbdM0cyBYLdArCeKqma-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcbdM0cyBYLdArCeKqma-1" target="zwebCuL8lai_OzPDBkWi-25">
+        <mxCell id="wcbdM0cyBYLdArCeKqma-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wcbdM0cyBYLdArCeKqma-1" target="zwebCuL8lai_OzPDBkWi-25" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-390" y="260" as="sourcePoint" />
             <mxPoint x="-390" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wcbdM0cyBYLdArCeKqma-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwebCuL8lai_OzPDBkWi-35" target="zwebCuL8lai_OzPDBkWi-1">
+        <mxCell id="wcbdM0cyBYLdArCeKqma-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zwebCuL8lai_OzPDBkWi-35" target="zwebCuL8lai_OzPDBkWi-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-740" y="460" as="sourcePoint" />
             <mxPoint x="-602" y="240" as="targetPoint" />
@@ -1179,6 +1188,38 @@
               <mxPoint x="-670" y="135" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: transparent;&quot;&gt;&lt;u&gt;Вопрос Заказчику:&lt;/u&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;включение Потребностей из САПФИР/1СФЭУ на данном этапе не прорабатывается?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="472.5" width="209" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L-7PZKD7Y2jL_qXZ3S3v-12" target="Mrs3gt76avuAsP12zxQ5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: transparent;&quot;&gt;&lt;u&gt;Вопрос Заказчику:&lt;/u&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;в РП не описан процесс согласования Заявки - просьба дать информацию.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Судя по файлу &quot;Сапозамещение&quot;, Заявка либо&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;а)&lt;/b&gt; автоматически становится &quot;согласованной&quot; (и доступна для включения в Лот),&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;б) &lt;/b&gt;либо (по каком принципу?) отправляется по цепочке согласования в РГС и именно там может быть либо &quot;согласована&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;в) &lt;/b&gt;либо сотрудником РГС включена в Сводную Заявку и после этого &quot;согласована&quot;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="912.5" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-7PZKD7Y2jL_qXZ3S3v-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Судя по рассуждениям на детализации правее: здесь разделение&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;- Согласована и доступна для включения в лот (стрелка на лот)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;- отправляется на создание сгруппированной&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="646" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-17" value="Перевод сгруппированной потребности в статус &quot;Согласована&quot;" style="html=1;whiteSpace=wrap;rounded=1;fontColor=#0000FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-117" y="850" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-18" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 255);&quot;&gt;Кнопка «Добавить закупаемую продукцию на основе&lt;br&gt;потребности» недоступна&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1180" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-19" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Закупка у ВЗ&lt;font face=&quot;Helvetica&quot;&gt;Л&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;с признаком «с каталогом»&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=light-dark(#ffffff, #272727);fillStyle=auto;fontColor=#0000FF;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="1140" width="91" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;p class=&quot;MsoCommentText&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Вопрос: если ИПЛ «изменение плановой стоимости», то необходимо изменить количество и/или стоимость в Потребности,&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;но Потребность включена в Лот (еще без метки&amp;nbsp;блокировки) и недоступна для редактирования&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;- соответственно сработает проверка по несоответствию стоимости&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1250" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="L-7PZKD7Y2jL_qXZ3S3v-21" value="Способ закупки" style="rhombus;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1050" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
