@@ -1871,7 +1871,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IzqXna0y6BrleOZsdOQ" name="процессы / ТЗ">
-    <mxGraphModel dx="753" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2112,12 +2112,12 @@
           <mxGeometry x="626" y="120" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-40" value="2.22" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="90" width="105" height="80" as="geometry">
+          <mxGeometry x="760" y="90" width="100" height="80" as="geometry">
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-41" value="Договоры" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4ZJkY-u9vszOsqMEtYiw-40">
-          <mxGeometry y="30" width="105" height="50" as="geometry" />
+          <mxGeometry y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2136,12 +2136,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-44" value="2.24" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="756" y="230" width="94" height="110" as="geometry">
+          <mxGeometry x="760" y="230" width="100" height="110" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-45" value="Аккредитация" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4ZJkY-u9vszOsqMEtYiw-44">
-          <mxGeometry y="30" width="94" height="80" as="geometry" />
+          <mxGeometry y="30" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-46" value="" style="endArrow=open;endFill=1;html=1;rounded=0;exitX=0.103;exitY=-0.008;exitDx=0;exitDy=0;entryX=0.911;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=open;startFill=0;endSize=12;startSize=12;exitPerimeter=0;" edge="1" parent="1" source="4ZJkY-u9vszOsqMEtYiw-44" target="4ZJkY-u9vszOsqMEtYiw-5">
           <mxGeometry width="160" relative="1" as="geometry">
