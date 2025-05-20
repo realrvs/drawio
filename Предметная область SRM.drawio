@@ -1656,7 +1656,7 @@
         <mxCell id="4DQe8EC2PEqxlWT9_ANc-5" value="Согласовано АО «РГС»" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2670" y="690" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4DQe8EC2PEqxlWT9_ANc-6" value="&lt;span style=&quot;font-size:10.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Верифицирован&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="4DQe8EC2PEqxlWT9_ANc-6" value="&lt;span style=&quot;font-size:10.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Верифицирован&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2301" y="570" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4DQe8EC2PEqxlWT9_ANc-7" value="&lt;span style=&quot;font-size:10.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Инициирован процесс Внесения изменений ОИ&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
@@ -1832,8 +1832,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0bgPAr9PVRU083KQgcP-4" value="уточнить: автосогласование - это для ЗК1 и в РГС на согласование не попадает, соответственно верификация не требуется (удалить)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.31;rotation=90;horizontal=1;size=32;position=0.23;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="2503" y="468" width="120" height="198" as="geometry" />
+        <mxCell id="m0bgPAr9PVRU083KQgcP-4" value="автосогласование - это только для закупок ЗК1 для самого ПАО РГ (пришедших из САПФИР) это такой частный случай, что предлагаю удалить (пока не ответят по тому, что вообще делать с САПФИР)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rotation=0;horizontal=1;size=30;position=0.07;fontColor=#FF0000;base=20;" parent="1" vertex="1">
+          <mxGeometry x="2481" y="330" width="140" height="188" as="geometry" />
         </mxCell>
         <mxCell id="puazKsNs0KA0YzcxrVZt-3" value="" style="endArrow=open;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#0000FF;fontColor=#0000FF;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-9" target="4DQe8EC2PEqxlWT9_ANc-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
