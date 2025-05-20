@@ -1691,7 +1691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_XmshLm8JyHFy9hWFjXg" name="Статусы ПЗД">
-    <mxGraphModel dx="-750" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-818" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1829,14 +1829,14 @@
         <mxCell id="4DQe8EC2PEqxlWT9_ANc-29" value="" style="rhombus;" parent="1" vertex="1">
           <mxGeometry x="1962" y="885" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4DQe8EC2PEqxlWT9_ANc-30" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;Отменить&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;изменения в ПЗД&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-7" target="4DQe8EC2PEqxlWT9_ANc-29" edge="1">
+        <mxCell id="4DQe8EC2PEqxlWT9_ANc-30" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Отменить&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;изменения в ПЗД&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-7" target="4DQe8EC2PEqxlWT9_ANc-29" edge="1">
           <mxGeometry x="0.2397" y="-5" width="160" relative="1" as="geometry">
             <mxPoint x="1985" y="630" as="sourcePoint" />
             <mxPoint x="1986" y="699" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4DQe8EC2PEqxlWT9_ANc-31" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;Отменить&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;изменения в ПЗД&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-9" target="4DQe8EC2PEqxlWT9_ANc-29" edge="1">
+        <mxCell id="4DQe8EC2PEqxlWT9_ANc-31" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Отменить&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;изменения в ПЗД&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-9" target="4DQe8EC2PEqxlWT9_ANc-29" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1875" y="835" as="sourcePoint" />
             <mxPoint x="2030" y="935" as="targetPoint" />
@@ -1852,6 +1852,11 @@
               <mxPoint x="1700" y="945" />
               <mxPoint x="1700" y="595" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXN9yveWgBfyIv50_Yjr-2" value="&lt;span style=&quot;line-height: 12.65px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Отменить&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 12.65px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;изменения в ПЗД&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4DQe8EC2PEqxlWT9_ANc-32">
+          <mxGeometry x="-0.671" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4DQe8EC2PEqxlWT9_ANc-33" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-27" target="4DQe8EC2PEqxlWT9_ANc-34" edge="1">
@@ -1889,36 +1894,18 @@
         <mxCell id="m0bgPAr9PVRU083KQgcP-4" value="автосогласование - это только для закупок ЗК1 для самого ПАО РГ (пришедших из САПФИР) это такой частный случай, что предлагаю удалить (пока не ответят по тому, что вообще делать с САПФИР)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rotation=0;horizontal=1;size=30;position=0.07;fontColor=#FF0000;base=20;" parent="1" vertex="1">
           <mxGeometry x="2481" y="330" width="140" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="puazKsNs0KA0YzcxrVZt-3" value="" style="endArrow=open;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#0000FF;fontColor=#0000FF;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-9" target="4DQe8EC2PEqxlWT9_ANc-3" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2801" y="815" as="sourcePoint" />
-            <mxPoint x="2700" y="938" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2100" y="800" />
-              <mxPoint x="2100" y="965" />
-              <mxPoint x="1670" y="965" />
-              <mxPoint x="1670" y="416" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="puazKsNs0KA0YzcxrVZt-4" value="&lt;font style=&quot;font-size: 26px; background-color: rgb(255, 255, 0);&quot;&gt;1?&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="puazKsNs0KA0YzcxrVZt-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.0473" y="-1" relative="1" as="geometry">
-            <mxPoint x="427" y="110" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="puazKsNs0KA0YzcxrVZt-5" value="" style="endArrow=open;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#0000FF;fontColor=#0000FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-9" edge="1">
+        <mxCell id="puazKsNs0KA0YzcxrVZt-5" value="" style="endArrow=open;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#0000FF;fontColor=#0000FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-29" edge="1" target="4DQe8EC2PEqxlWT9_ANc-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2060" y="799.5" as="sourcePoint" />
             <mxPoint x="3090" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3090" y="800" />
-              <mxPoint x="3090" y="745" />
+              <mxPoint x="2995" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="puazKsNs0KA0YzcxrVZt-6" value="&lt;font style=&quot;font-size: 26px; background-color: rgb(255, 255, 0);&quot;&gt;2?&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="puazKsNs0KA0YzcxrVZt-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.0473" y="-1" relative="1" as="geometry">
-            <mxPoint x="-386" y="-1" as="offset" />
+        <mxCell id="lXN9yveWgBfyIv50_Yjr-1" value="&lt;font style=&quot;font-size: 12px; color: rgb(0, 0, 255);&quot;&gt;при нажатии на кнопку &lt;span style=&quot;line-height: 115%;&quot;&gt;«Принять в работу»&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="puazKsNs0KA0YzcxrVZt-5">
+          <mxGeometry x="-0.8973" y="-3" relative="1" as="geometry">
+            <mxPoint x="177" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s-AA9XBOsCuZnL4mOy6m-1" value="при нажатии на кнопку&amp;nbsp;&lt;div&gt;«&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;Вернуть в статус &quot;Проект&quot;&lt;/font&gt;&lt;/span&gt;»&amp;nbsp;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;strokeColor=#0000FF;fontColor=#0000FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4DQe8EC2PEqxlWT9_ANc-2">
