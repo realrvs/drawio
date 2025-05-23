@@ -1838,7 +1838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_XmshLm8JyHFy9hWFjXg" name="Статусы ПЗД">
-    <mxGraphModel dx="-575" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-746" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2038,8 +2038,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0bgPAr9PVRU083KQgcP-4" value="автосогласование - это только для закупок ЗК1 для самого ПАО РГ (пришедших из САПФИР) это такой частный случай, что предлагаю удалить (пока не ответят по тому, что вообще делать с САПФИР)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rotation=0;horizontal=1;size=30;position=0.07;fontColor=#FF0000;base=20;" parent="1" vertex="1">
-          <mxGeometry x="2481" y="330" width="140" height="188" as="geometry" />
+        <mxCell id="m0bgPAr9PVRU083KQgcP-4" value="автосогласование - это только для закупок ЗК1 для самого ПАО РГ (пришедших из САПФИР) это такой частный случай, что предлагаю удалить (пока не ответят по тому, что вообще делать с САПФИР)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;итог: &lt;u&gt;удалить&lt;/u&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rotation=0;horizontal=1;size=30;position=0.07;fontColor=#FF0000;base=20;" parent="1" vertex="1">
+          <mxGeometry x="2481" y="330" width="219" height="188" as="geometry" />
         </mxCell>
         <mxCell id="puazKsNs0KA0YzcxrVZt-5" value="" style="endArrow=open;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#0000FF;fontColor=#0000FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-29" target="4DQe8EC2PEqxlWT9_ANc-8" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2055,7 +2055,7 @@
             <mxPoint x="177" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s-AA9XBOsCuZnL4mOy6m-1" value="&lt;font&gt;при н&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;ажатии на кнопку&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;«&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;Вернуть в статус &quot;Проект&quot;&lt;/font&gt;&lt;/span&gt;»&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;strokeColor=#0000FF;fontColor=#0000FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-2" edge="1" target="4DQe8EC2PEqxlWT9_ANc-1">
+        <mxCell id="s-AA9XBOsCuZnL4mOy6m-1" value="&lt;font&gt;при н&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;ажатии на кнопку&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;«&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;Вернуть в статус &quot;Проект&quot;&lt;/font&gt;&lt;/span&gt;»&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;strokeColor=#0000FF;fontColor=#0000FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4DQe8EC2PEqxlWT9_ANc-2" target="4DQe8EC2PEqxlWT9_ANc-1" edge="1">
           <mxGeometry x="-0.5976" y="3" width="160" relative="1" as="geometry">
             <mxPoint x="2720" y="278" as="sourcePoint" />
             <mxPoint x="2480" y="170" as="targetPoint" />
@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IzqXna0y6BrleOZsdOQ" name="процессы / ТЗ">
-    <mxGraphModel dx="1009" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
