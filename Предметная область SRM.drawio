@@ -2748,23 +2748,23 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-85" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Получение запроса&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1300" width="170" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-85" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Создание запроса на разъяснение&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1280" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-86" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Подготовка Ответа&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1380" width="170" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-86" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Заполнение поле, формирование запроса на разъяснение&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1350" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-87" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Согласование ответа&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1450" width="170" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-87" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Согласование запроса&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1420" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-88" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Публикация ответа&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1530" width="170" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-88" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Размещение разъяснения в ЕИС, статус меняется на опубликовано в ЕИС&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1490" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-89" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Регистрация конвертов&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1620" width="170" height="50" as="geometry" />
+          <mxGeometry x="600" y="1630" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-90" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Проверка Заявок&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1690" width="170" height="50" as="geometry" />
+          <mxGeometry x="600" y="1704" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-91" value="Обработка запросов Разъяснений" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="1258" width="210" height="30" as="geometry" />
@@ -2790,7 +2790,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-95" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR28KINpzwv_X_DPLxsA-88" target="dR28KINpzwv_X_DPLxsA-89">
+        <mxCell id="dR28KINpzwv_X_DPLxsA-95" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR28KINpzwv_X_DPLxsA-88" target="QUcRiK1VFsCdLvDHHhhX-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="910" y="1700" as="sourcePoint" />
             <mxPoint x="910" y="1750" as="targetPoint" />
@@ -2854,7 +2854,7 @@
           <mxGeometry x="600" y="2270" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-108" value="Прием заявок" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="702.5" y="1590" width="100" height="30" as="geometry" />
+          <mxGeometry x="760" y="1600" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-109" value="Вскрытие конвертов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="1748" width="140" height="30" as="geometry" />
@@ -2921,6 +2921,16 @@
         </mxCell>
         <mxCell id="QUcRiK1VFsCdLvDHHhhX-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="2620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QUcRiK1VFsCdLvDHHhhX-3" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Публикация разъяснения на ЕЭТП&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1560" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QUcRiK1VFsCdLvDHHhhX-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QUcRiK1VFsCdLvDHHhhX-3" target="dR28KINpzwv_X_DPLxsA-89">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="689" y="1610" as="sourcePoint" />
+            <mxPoint x="689" y="1630" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
