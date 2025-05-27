@@ -3231,6 +3231,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i-0hS1tXfibNbh62YYIq-1" value="ККСУ" style="fontStyle=0;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="151" width="400" height="316" as="geometry" />
+        </mxCell>
         <mxCell id="_7CdUI-cnqeNOGr3BOpc-27" value="Проект" style="fontStyle=0;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="500" y="60" width="300" height="580" as="geometry" />
         </mxCell>
@@ -3542,9 +3545,6 @@
         </mxCell>
         <mxCell id="GXHgXY7ahL1AN8pX2CR_-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;реестр обращений&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="261" y="741" width="122" height="41.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i-0hS1tXfibNbh62YYIq-1" value="ККСУ" style="fontStyle=0;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-471" y="151" width="400" height="316" as="geometry" />
         </mxCell>
         <mxCell id="GXHgXY7ahL1AN8pX2CR_-6" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GXHgXY7ahL1AN8pX2CR_-1" target="GXHgXY7ahL1AN8pX2CR_-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
