@@ -2948,7 +2948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="Экспертиза">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3042" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3227,7 +3227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2.21 ККСУ" id="_2Lff_DIPBjl_njRk83v">
-    <mxGraphModel dx="1713" dy="422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2106" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3411,10 +3411,10 @@
         <mxCell id="_7CdUI-cnqeNOGr3BOpc-23" value="добавить&amp;nbsp;&lt;div&gt;файл&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="526" width="100" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_7CdUI-cnqeNOGr3BOpc-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;div&gt;для статусов&lt;/div&gt;&lt;div&gt;&quot;новый&quot; или&lt;/div&gt;&lt;div&gt;&quot;на доработке&quot;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.773;entryY=0.853;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.07;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_7CdUI-cnqeNOGr3BOpc-23" target="uUsToVCKIEKUtvEqoPd7-5" edge="1">
+        <mxCell id="_7CdUI-cnqeNOGr3BOpc-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;div&gt;для статусов&lt;/div&gt;&lt;div&gt;&quot;новый&quot; или&lt;/div&gt;&lt;div&gt;&quot;на доработке&quot;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.07;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_7CdUI-cnqeNOGr3BOpc-23" edge="1">
           <mxGeometry x="-0.4424" y="18" width="160" relative="1" as="geometry">
             <mxPoint x="136" y="559" as="sourcePoint" />
-            <mxPoint x="209.03999999999996" y="409.57000000000016" as="targetPoint" />
+            <mxPoint x="240" y="299" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -3819,7 +3819,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YEF9eM26ANSVdjszqBt4-1" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Путь пользователя&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;для просмотра каталога&lt;/div&gt;" style="fontStyle=0;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1712" y="39.25" width="170" height="350" as="geometry" />
+          <mxGeometry x="1712" y="39.25" width="170" height="646.75" as="geometry" />
         </mxCell>
         <mxCell id="YEF9eM26ANSVdjszqBt4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YEF9eM26ANSVdjszqBt4-4" target="YEF9eM26ANSVdjszqBt4-5">
           <mxGeometry relative="1" as="geometry" />
@@ -3991,6 +3991,16 @@
         </mxCell>
         <mxCell id="YEF9eM26ANSVdjszqBt4-47" value="изменение статуса проекта" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2422" y="481.75" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gxd14Vt0JDYXxsmOGsIQ-3" value="скачать все файлы одним архивом" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="459" width="100" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gxd14Vt0JDYXxsmOGsIQ-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.054;exitY=0.233;exitDx=0;exitDy=0;entryX=0.799;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="gxd14Vt0JDYXxsmOGsIQ-3" target="uUsToVCKIEKUtvEqoPd7-5">
+          <mxGeometry x="-0.1913" y="-1" width="160" relative="1" as="geometry">
+            <mxPoint x="159" y="507" as="sourcePoint" />
+            <mxPoint x="188" y="367" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
