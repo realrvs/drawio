@@ -3184,7 +3184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="1326" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3425,6 +3425,9 @@
         <mxCell id="gOQds5y5b8E-F445KFNM-127" value="Обновленное" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2050" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gOQds5y5b8E-F445KFNM-129" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="1040" width="380" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="gOQds5y5b8E-F445KFNM-128" value="Требования доступны в ИЭЗ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gOQds5y5b8E-F445KFNM-131" target="gOQds5y5b8E-F445KFNM-104" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1300.0000000000002" y="1030" as="sourcePoint" />
@@ -3434,9 +3437,6 @@
               <mxPoint x="1970" y="1020" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gOQds5y5b8E-F445KFNM-129" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="1040" width="380" height="170" as="geometry" />
         </mxCell>
         <mxCell id="gOQds5y5b8E-F445KFNM-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gOQds5y5b8E-F445KFNM-131" target="gOQds5y5b8E-F445KFNM-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3453,7 +3453,7 @@
         <mxCell id="gOQds5y5b8E-F445KFNM-134" value="Добавила про критерии и требования" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1170" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOQds5y5b8E-F445KFNM-135" value="Должно ли требование быть связано с замечанием?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="gOQds5y5b8E-F445KFNM-135" value="Должно ли требование быть связано с замечанием?&lt;div&gt;Ответ: не связано с сущностью требование&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3360" y="580" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gOQds5y5b8E-F445KFNM-136" value="Добавила" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontColor=#FF0000;" parent="1" vertex="1">
