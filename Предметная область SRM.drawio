@@ -4591,7 +4591,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2.21 ККСУ" id="_2Lff_DIPBjl_njRk83v">
-    <mxGraphModel dx="2232" dy="1598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3332" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4599,7 +4599,7 @@
           <mxGeometry x="-477" y="151" width="406" height="316" as="geometry" />
         </mxCell>
         <mxCell id="_7CdUI-cnqeNOGr3BOpc-27" value="Проект" style="fontStyle=1;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="500" y="60" width="300" height="580" as="geometry" />
+          <mxGeometry x="500" y="60" width="274" height="580" as="geometry" />
         </mxCell>
         <mxCell id="B77TqY3MA0xFfuf9BX9Q-25" value="Реестр проектов изменений" style="fontStyle=1;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="390" height="580" as="geometry" />
@@ -4638,7 +4638,7 @@
           <mxGeometry x="911" y="180" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a1hqP5spGW7D1W1CvFzN-3" value="&amp;nbsp;?? выбор уровня ОКПД2: (текущий/новый/отмена)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="135" width="160" height="70" as="geometry" />
+          <mxGeometry x="592" y="139.25" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a1hqP5spGW7D1W1CvFzN-12" value="сценарий:&lt;div&gt;выбрать тип заявки&lt;/div&gt;&lt;div&gt;выбрать файл на локальном диске&lt;br&gt;&lt;div&gt;нажать добавить файл&lt;/div&gt;&lt;div&gt;добавить описание&lt;/div&gt;&lt;div&gt;нажать загруить&lt;/div&gt;&lt;div&gt;отображение в блоке &quot;загруженные файлы&quot;&lt;/div&gt;&lt;div&gt;нажать продолжить&lt;/div&gt;&lt;div&gt;&lt;div&gt;альтернатива - не заполнено обязат.поле&amp;nbsp;&lt;/div&gt;&lt;div&gt;исключение - отменить&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="911" y="574" width="280" height="160" as="geometry" />
@@ -4851,7 +4851,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GXHgXY7ahL1AN8pX2CR_-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;реестр вопросов&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="661" width="110" height="53.25" as="geometry" />
+          <mxGeometry x="315" y="698.01" width="110" height="43.99" as="geometry" />
         </mxCell>
         <mxCell id="GXHgXY7ahL1AN8pX2CR_-3" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.58;exitY=0.966;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uUsToVCKIEKUtvEqoPd7-23" target="GXHgXY7ahL1AN8pX2CR_-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -4860,9 +4860,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GXHgXY7ahL1AN8pX2CR_-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;реестр обращений&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="261" y="741" width="122" height="41.5" as="geometry" />
+          <mxGeometry x="458" y="703.88" width="122" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="GXHgXY7ahL1AN8pX2CR_-6" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GXHgXY7ahL1AN8pX2CR_-1" target="GXHgXY7ahL1AN8pX2CR_-4" edge="1">
+        <mxCell id="GXHgXY7ahL1AN8pX2CR_-6" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GXHgXY7ahL1AN8pX2CR_-1" target="GXHgXY7ahL1AN8pX2CR_-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="364" y="639" as="sourcePoint" />
             <mxPoint x="356" y="671" as="targetPoint" />
@@ -5414,6 +5414,9 @@
             <mxPoint x="163" y="596" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iNw_QwcUN3TfWmfhIf7Z-10" value="далее работа в системе &quot;Работа ЦЗК&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="298" y="662" width="302" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
