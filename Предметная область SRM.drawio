@@ -4263,7 +4263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="1408" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4590,6 +4590,15 @@
         </mxCell>
         <mxCell id="L_L-WssNXw5YL5tKDDHF-6" value="&lt;font color=&quot;#0000ff&quot;&gt;документы отличаются, т.к. у них разная степень актуальности (причем оба не актуальны),&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;по возможности - делаем максимально логично и просто&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;тот, кто делал предыдущие документы - не идеален, Заказчик тоже меняет хотелки&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="940" y="3300" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5nkfMSBrBw4HWF1DkEKx-1" value="&lt;font color=&quot;#0000ff&quot;&gt;опечатка - сначала ИЭЗ (индивидуальные экспертные заключения,&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;а потом СЭЗ (Сводное эксп. заключение)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="3809" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5nkfMSBrBw4HWF1DkEKx-2" value="&lt;font color=&quot;#0000ff&quot;&gt;лучше дописать &quot;Замена эксперта &lt;u&gt;в ЭГ после объявления закупки&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;(потому что в Activity: Формирование экспертной группы&quot; тоже возможна замена эксперта&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="5750" y="3000" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5nkfMSBrBw4HWF1DkEKx-3" value="&lt;font color=&quot;#0000ff&quot;&gt;уточнить - здесь наверное Секретарь ЗК / Куратор ЭГ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="5700" y="3859" width="340" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
