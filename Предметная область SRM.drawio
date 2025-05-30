@@ -4795,7 +4795,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2.21 ККСУ" id="_2Lff_DIPBjl_njRk83v">
-    <mxGraphModel dx="4476" dy="2154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3009" dy="1756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5670,12 +5670,12 @@
           <mxGeometry x="26" y="393" width="778" height="685.38" as="geometry" />
         </mxCell>
         <mxCell id="_7CdUI-cnqeNOGr3BOpc-27" value="Проект" style="fontStyle=1;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
-          <mxGeometry x="517" width="261" height="580" as="geometry" />
+          <mxGeometry x="517" width="156" height="580" as="geometry" />
         </mxCell>
         <mxCell id="B77TqY3MA0xFfuf9BX9Q-25" value="Реестр проектов изменений" style="fontStyle=1;dashed=1;html=1;whiteSpace=wrap;fillColor=none;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
           <mxGeometry x="115" width="403" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="uUsToVCKIEKUtvEqoPd7-1" value="ответственный&amp;nbsp;&lt;div&gt;за работу с каталогом&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
+        <mxCell id="uUsToVCKIEKUtvEqoPd7-1" value="редактор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
           <mxGeometry x="46.28607594936709" y="195" width="29.544303797468356" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUsToVCKIEKUtvEqoPd7-2" value="использовать&amp;nbsp;&lt;div&gt;фильтр&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
@@ -5694,7 +5694,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUsToVCKIEKUtvEqoPd7-22" value="удалить&amp;nbsp;&lt;div&gt;позиции&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
-          <mxGeometry x="593.840506329114" y="322.5" width="98.48101265822785" height="47.5" as="geometry" />
+          <mxGeometry x="548.0005063291139" y="330" width="98.48101265822785" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="uUsToVCKIEKUtvEqoPd7-23" value="сформировать&amp;nbsp;&lt;div&gt;вопрос&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;для ЦЗК&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
           <mxGeometry x="301.3518987341772" y="517.38" width="108.32911392405063" height="53.25" as="geometry" />
@@ -5703,10 +5703,7 @@
           <mxGeometry x="138.85822784810128" y="442" width="83.70886075949367" height="52" as="geometry" />
         </mxCell>
         <mxCell id="aPNyffM7XNacORTNLavd-3" value="редактировать позиции" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
-          <mxGeometry x="606.6430379746836" y="245.5" width="98.48101265822785" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="a1hqP5spGW7D1W1CvFzN-3" value="&amp;nbsp;?? выбор уровня ОКПД2: (текущий/новый/отмена)" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
-          <mxGeometry x="598.7645569620254" y="79.25" width="157.56962025316457" height="70" as="geometry" />
+          <mxGeometry x="548.0030379746836" y="245.5" width="98.48101265822785" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B77TqY3MA0xFfuf9BX9Q-21" value="использовать&amp;nbsp;&lt;div&gt;быстрый фильтр&amp;nbsp;&lt;/div&gt;&lt;div&gt;по статусу&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
           <mxGeometry x="222.56708860759494" y="40" width="128.0253164556962" height="55" as="geometry" />
@@ -5718,7 +5715,7 @@
           <mxGeometry x="193.02278481012658" y="500" width="108.32911392405063" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fJv8jJWw_Qq6XlyXHoZs-2" value="завести новую Позицию" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
-          <mxGeometry x="626.3392405063291" y="180" width="98.48101265822785" height="50" as="geometry" />
+          <mxGeometry x="547.9992405063291" y="183" width="98.48101265822785" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDY1Blrm2O89Bh_IT7tH-5" value="редактировать&amp;nbsp;&lt;div&gt;Проект&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
           <mxGeometry x="385.0607594936709" y="330" width="98.48101265822785" height="50" as="geometry" />
@@ -5799,12 +5796,6 @@
             <mxPoint x="173.32658227848103" y="378" as="sourcePoint" />
             <mxPoint x="201.8860759493671" y="252" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4YHMf6DyaAtB7bpnm6qT-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.786;exitY=0.172;exitDx=0;exitDy=0;exitPerimeter=0;" parent="438uFKfrPgAVNVzzCKJS-36" source="fJv8jJWw_Qq6XlyXHoZs-2" target="a1hqP5spGW7D1W1CvFzN-3" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="143.78227848101267" y="-160" as="sourcePoint" />
-            <mxPoint x="301.3518987341772" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GXHgXY7ahL1AN8pX2CR_-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;реестр вопросов&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="438uFKfrPgAVNVzzCKJS-36" vertex="1">
