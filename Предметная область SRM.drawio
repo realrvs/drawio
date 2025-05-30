@@ -4795,7 +4795,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2.21 ККСУ" id="_2Lff_DIPBjl_njRk83v">
-    <mxGraphModel dx="3437" dy="1978" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5868" dy="3208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4860,7 +4860,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="sjvhehRUzX0wPwyslBrM-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3575" y="2284" width="1250" height="186.05999999999995" as="geometry" />
+          <mxGeometry x="5147" y="1857" width="1250" height="186.05999999999995" as="geometry" />
         </mxCell>
         <mxCell id="AJWl3Q4mTbVhtcRR2NcJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sjvhehRUzX0wPwyslBrM-57" source="AJWl3Q4mTbVhtcRR2NcJ-2" target="AJWl3Q4mTbVhtcRR2NcJ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6113,6 +6113,9 @@
         </mxCell>
         <mxCell id="438uFKfrPgAVNVzzCKJS-45" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="438uFKfrPgAVNVzzCKJS-44">
           <mxGeometry x="145" y="758" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="438uFKfrPgAVNVzzCKJS-48" value="Процесс (дубль в горизонтальном виде, если не нужен будет, можно удалить)&lt;div&gt;выбора файлов для обоснования Проекта&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5151" y="1791" width="743" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
