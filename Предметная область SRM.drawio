@@ -3623,7 +3623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IzqXna0y6BrleOZsdOQ" name="процессы / ТЗ">
-    <mxGraphModel dx="1554" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3732,7 +3732,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZJkY-u9vszOsqMEtYiw-9" value="Экспертиза" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4ZJkY-u9vszOsqMEtYiw-8" vertex="1">
+        <mxCell id="4ZJkY-u9vszOsqMEtYiw-9" value="Экспертиза" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=2" parent="4ZJkY-u9vszOsqMEtYiw-8" vertex="1">
           <mxGeometry y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-10" value="2.16" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3846,7 +3846,7 @@
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-5" value="Проведение&lt;div&gt;(до вскрытия)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="606" y="120" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4ZJkY-u9vszOsqMEtYiw-40" value="2.22" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4ZJkY-u9vszOsqMEtYiw-40" value="2.22" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="859" y="90" width="100" height="80" as="geometry">
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -3885,7 +3885,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZJkY-u9vszOsqMEtYiw-53" value="2.20" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="4ZJkY-u9vszOsqMEtYiw-53" value="2.20" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="230" width="60" height="110" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -3925,12 +3925,12 @@
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-64" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="626" y="505" width="140" height="80" as="geometry">
+          <mxGeometry x="626" y="505" width="174" height="80" as="geometry">
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZJkY-u9vszOsqMEtYiw-65" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;(06РП п.7.2)&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;УЗ&lt;font size=&quot;1&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Планирование и Проведение&lt;/span&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4ZJkY-u9vszOsqMEtYiw-64" vertex="1">
-          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        <mxCell id="4ZJkY-u9vszOsqMEtYiw-65" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;(06РП п.7.2.4-7.2.6) + ЕПоНЗ&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;УЗ&lt;font size=&quot;1&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;strike&gt;Планирование и &lt;/strike&gt;Проведение&lt;/span&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4ZJkY-u9vszOsqMEtYiw-64" vertex="1">
+          <mxGeometry y="30" width="174" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-66" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;strokeColor=default;dashed=1;exitX=0.221;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4ZJkY-u9vszOsqMEtYiw-56" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
