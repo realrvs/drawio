@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="13">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3623,7 +3623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IzqXna0y6BrleOZsdOQ" name="процессы / ТЗ">
-    <mxGraphModel dx="1388" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4066,27 +4066,27 @@
         <mxCell id="Yg-eAF6Cc5Y0cK4bFBN4-16" value="&lt;font style=&quot;color: rgb(0, 255, 0);&quot;&gt;Ср&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="190" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yg-eAF6Cc5Y0cK4bFBN4-17" value="Чт" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Yg-eAF6Cc5Y0cK4bFBN4-17" value="&lt;font style=&quot;color: rgb(0, 255, 0);&quot;&gt;Чт&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="270" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yg-eAF6Cc5Y0cK4bFBN4-18" value="Пт" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="350" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-1" value="09.06." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-1" value="09.06." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="490" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-3" value="2.22" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-3" value="2.22" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="1009" y="540" width="81" height="80" as="geometry">
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-4" value="Договоры" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="kYAqLhK3t1TmDX3Xt_hZ-3">
+        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-4" value="Договоры" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="kYAqLhK3t1TmDX3Xt_hZ-3" vertex="1">
           <mxGeometry y="30" width="81" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-5" value="09.06." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-5" value="09.06." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="550" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-6" value="09.06.&lt;div&gt;модули 1-4 можно смотреть&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kYAqLhK3t1TmDX3Xt_hZ-6" value="Сб" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="430" width="171" height="30" as="geometry" />
         </mxCell>
       </root>
