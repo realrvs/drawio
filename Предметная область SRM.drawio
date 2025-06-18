@@ -4124,6 +4124,14 @@
         <mxCell id="4DzDuPp1rR6Yvw-P4e7R-1" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;17.06&lt;/font&gt;.&amp;nbsp;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1109" y="606" width="99" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ijymjf42PIb6JJDR4Avk-1" value="2.20" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="79" height="110" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ijymjf42PIb6JJDR4Avk-2" value="КЦД" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ijymjf42PIb6JJDR4Avk-1">
+          <mxGeometry y="30" width="79" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
