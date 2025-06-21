@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="18">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5147,7 +5147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jmPqA9UObjTaCgxDdqa7-53" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Не действующий&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="800.5" width="170" height="50" as="geometry" />
+          <mxGeometry x="1930" y="800.5" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jmPqA9UObjTaCgxDdqa7-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jmPqA9UObjTaCgxDdqa7-4" target="jmPqA9UObjTaCgxDdqa7-49" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -5195,13 +5195,13 @@
           <mxGeometry x="2230" y="410" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jmPqA9UObjTaCgxDdqa7-65" value="Допущена к участию" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2015" y="410" width="170" height="50" as="geometry" />
+          <mxGeometry x="2030" y="410" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jmPqA9UObjTaCgxDdqa7-66" value="Проверена" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="282.5" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jmPqA9UObjTaCgxDdqa7-67" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="2085" y="500.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="2100" y="500.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jmPqA9UObjTaCgxDdqa7-68" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jmPqA9UObjTaCgxDdqa7-65" target="jmPqA9UObjTaCgxDdqa7-67" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -5234,7 +5234,7 @@
             <mxPoint x="2250" y="540" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="2100" y="376" />
+              <mxPoint x="2115" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5294,7 +5294,7 @@
             <mxPoint x="2943" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FriM4JiMC7kHQ61-OlVV-6" value="Согласована" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FriM4JiMC7kHQ61-OlVV-6" value="Согласовано" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="3087.91" y="631.75" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FriM4JiMC7kHQ61-OlVV-7" value="Согласована всеми участниками" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FriM4JiMC7kHQ61-OlVV-8" target="FriM4JiMC7kHQ61-OlVV-6">
@@ -5773,7 +5773,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="-6577" dy="-4799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
