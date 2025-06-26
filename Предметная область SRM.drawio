@@ -6445,7 +6445,7 @@
           <mxGeometry x="11789" y="11410" width="171" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2kxc58CvXzzwBA_cdmL_-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Общий процесс работы с экспертизой&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=default;width=310;height=40;" parent="1" vertex="1">
-          <mxGeometry x="9414" y="11920" width="1020" height="2000" as="geometry" />
+          <mxGeometry x="9414" y="11920" width="1020" height="1940" as="geometry" />
         </mxCell>
         <mxCell id="2kxc58CvXzzwBA_cdmL_-2" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
           <mxGeometry x="9812" y="11980" width="30" height="30" as="geometry" />
@@ -6593,8 +6593,8 @@
             <mxPoint x="9608.05" y="13190" as="sourcePoint" />
             <mxPoint x="9732.05" y="12630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="9623" y="13240" />
-              <mxPoint x="9578" y="13240" />
+              <mxPoint x="9623" y="13170" />
+              <mxPoint x="9578" y="13170" />
               <mxPoint x="9578" y="12625" />
             </Array>
           </mxGeometry>
@@ -6785,7 +6785,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10400" y="13820" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="10410" y="13820" />
+              <mxPoint x="10396" y="13740" />
+              <mxPoint x="10410" y="13740" />
               <mxPoint x="10410" y="12625" />
             </Array>
           </mxGeometry>
@@ -6813,7 +6814,7 @@
           <mxGeometry x="9453.02" y="13729" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2kxc58CvXzzwBA_cdmL_-79" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="9803.02" y="13778" width="30" height="30" as="geometry" />
+          <mxGeometry x="9803.02" y="13772" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kxc58CvXzzwBA_cdmL_-80" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kxc58CvXzzwBA_cdmL_-48" target="2kxc58CvXzzwBA_cdmL_-79" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
