@@ -10316,8 +10316,8 @@
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-9qFLZyxMlJRn1loi5Ce-16" target="-9qFLZyxMlJRn1loi5Ce-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="731" y="1081" as="sourcePoint" />
-            <mxPoint x="906" y="1131" as="targetPoint" />
+            <mxPoint x="731" y="1043" as="sourcePoint" />
+            <mxPoint x="906" y="1093" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-4" value="Рассмотрение РГС" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
@@ -10336,13 +10336,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-9" value="Директор ДЗ" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="541" y="951" width="170" height="50" as="geometry" />
+          <mxGeometry x="540" y="920" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-10" value="Решение согласовано ДЗ и ДФН" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="646" y="1111" width="170" height="50" as="geometry" />
+          <mxGeometry x="646" y="1073" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-12" value="Руководитель ДФН" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="951" width="170" height="50" as="geometry" />
+          <mxGeometry x="770" y="920" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-13" value="" style="rhombus;" parent="1" vertex="1">
           <mxGeometry x="711" y="781" width="30" height="30" as="geometry" />
@@ -10360,7 +10360,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-16" value="" style="rhombus;" parent="1" vertex="1">
-          <mxGeometry x="716" y="1041" width="30" height="30" as="geometry" />
+          <mxGeometry x="716" y="1003" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-9qFLZyxMlJRn1loi5Ce-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="-9qFLZyxMlJRn1loi5Ce-9" target="-9qFLZyxMlJRn1loi5Ce-16" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -10395,12 +10395,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="byO-iKRcsujBDKLt0x9B-5" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="716" y="1201" width="30" height="30" as="geometry" />
+          <mxGeometry x="716" y="1163" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="byO-iKRcsujBDKLt0x9B-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-9qFLZyxMlJRn1loi5Ce-10" target="byO-iKRcsujBDKLt0x9B-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="735" y="1171" as="sourcePoint" />
-            <mxPoint x="835" y="1211" as="targetPoint" />
+            <mxPoint x="735" y="1133" as="sourcePoint" />
+            <mxPoint x="835" y="1173" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
