@@ -5955,7 +5955,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="-3745" dy="-2285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-7369" dy="-5148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7716,6 +7716,12 @@
         </mxCell>
         <mxCell id="nErm5tFs4XZElu-OF5QW-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nErm5tFs4XZElu-OF5QW-335" source="nErm5tFs4XZElu-OF5QW-355" target="nErm5tFs4XZElu-OF5QW-360">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-379" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="11708.02" y="12270" width="621.98" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-380" value="Добавила переторжку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="12052" y="12280" width="158" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
