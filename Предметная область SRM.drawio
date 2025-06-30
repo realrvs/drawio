@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="22">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5955,7 +5955,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="-6967" dy="-5057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5187" dy="-3472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6909,29 +6909,475 @@
         <mxCell id="tXCYtFyGTnNQ052ydaDb-5" value="&lt;font color=&quot;#0000ff&quot;&gt;уточнить - здесь наверное Секретарь ЗК / Куратор ЭГ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="16551" y="8039" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="60eDLHwW4tfbvCZMKsEM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Фидбек от Сергея&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;направлением&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;1) (еще вопрос а понимание: отборочная и оценочная стадии идут «подряд», без промежуточного согласования результатов отборочной стадии?)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;считаю, что второе – лишний дубль&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;2) предлагаю добавить блоки «Рассмотрение СЭЗ» и «Рассмотрение дозапроса» (сейчас получается, что отправка автоматом распределяет)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;не описано назначение экспертизы после переторжки проводится аналогично, но сокращенно (см. п.11 в 07РП и п.14.3 в 17РП);&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;предлагаю сделать развилку&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;и можно «маленький» алгоритм в UML добавить&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="60eDLHwW4tfbvCZMKsEM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Фидбек от Сергея&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;направлением&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;1) (еще вопрос а понимание: отборочная и оценочная стадии идут «подряд», без промежуточного согласования результатов отборочной стадии?)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;считаю, что второе – лишний дубль&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;2) предлагаю добавить блоки «Рассмотрение СЭЗ» и «Рассмотрение дозапроса» (сейчас получается, что отправка автоматом распределяет)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;не описано назначение экспертизы после переторжки проводится аналогично, но сокращенно (см. п.11 в 07РП и п.14.3 в 17РП);&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;предлагаю сделать развилку&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Roboto, sans-serif; font-size: 14px; letter-spacing: 0.2px; background-color: rgba(68, 71, 70, 0.08);&quot;&gt;и можно «маленький» алгоритм в UML добавить&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="10490" y="13298" width="760" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-1" value="лучше поднять выше и правее,&lt;div&gt;&lt;br&gt;&lt;div&gt;стрелку от Нач_экспертизы перекинуть слева направо&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-1" value="лучше поднять выше и правее,&lt;div&gt;&lt;br&gt;&lt;div&gt;стрелку от Нач_экспертизы перекинуть слева направо&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12819" y="11360" width="171" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-2" value="раз нет шага 2 3 , то и это лишнее" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-2" value="раз нет шага 2 3 , то и это лишнее" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12649" y="10890" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-3" value="Руководитель Блока &lt;u&gt;ТРУ&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-3" value="Руководитель Блока &lt;u&gt;ТРУ&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12620" y="11106" width="171" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-4" value="Начальник подразделения по экспертизе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-4" value="Начальник подразделения по экспертизе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12677" y="11000" width="171" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-5" value="Руководитель по закупк&lt;u&gt;ам&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-5" value="Руководитель по закупк&lt;u&gt;ам&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12550" y="11230" width="171" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-6" value="раз нет шага 2, то и это лишнее" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-6" value="раз нет шага 2, то и это лишнее" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="12140" y="10898" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-7" value="Руководитель по закупк&lt;u&gt;ам&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ZxHQDHj3Ps9Hw8uvAejg-7" value="Руководитель по закупк&lt;u&gt;ам&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="11992" y="11106" width="171" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Общий процесс работы с экспертизой&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=default;width=310;height=40;" vertex="1" parent="1">
+          <mxGeometry x="11430" y="11920" width="1052" height="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11828" y="11980" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-3" value="Добавить требования к участникам в ПЗД" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12040" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-4" value="Добавить критерии оценки" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12120" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12000" as="sourcePoint" />
+            <mxPoint x="11968" y="12330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-3" target="nErm5tFs4XZElu-OF5QW-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11853" y="12010" as="sourcePoint" />
+            <mxPoint x="11853" y="12050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-8" target="nErm5tFs4XZElu-OF5QW-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11843" y="12350" />
+              <mxPoint x="11981" y="12350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-8" value="Настроить критерии оценки (метод, вес, значения и описание)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12280" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12250" as="sourcePoint" />
+            <mxPoint x="11853" y="12210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-10" value="Создать СЭЗ на основании ПЗД и состава ЭГ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12414" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-11" value="Автоматическое создание ИЭЗ для членов ЭГ&lt;br&gt;(статус = в работе)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12494" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12464" as="sourcePoint" />
+            <mxPoint x="11853" y="12424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-13" value="Уведомление членов ЭГ о назначении ИЭЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12574" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12544" as="sourcePoint" />
+            <mxPoint x="11853" y="12504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.989;exitY=0.182;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-16" target="nErm5tFs4XZElu-OF5QW-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11956" y="12663" />
+              <mxPoint x="11956" y="12647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-16" value="Работа над ИЭЗ. Каждый эксперт работает над своим направлением" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12654" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12624" as="sourcePoint" />
+            <mxPoint x="11853" y="12584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-18" value="Отправка ИЭЗ на проверку куратору" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12734" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12704" as="sourcePoint" />
+            <mxPoint x="11853" y="12664" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-20" value="Уведомление куратору ЭГ о готовности ИЭЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12814" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12784" as="sourcePoint" />
+            <mxPoint x="11853" y="12744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-22" value="Проверка ИЭЗ куратором" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12894" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12864" as="sourcePoint" />
+            <mxPoint x="11853" y="12824" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-24" value="Добавление замечаний и комментариев при необходимости" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12975" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12945" as="sourcePoint" />
+            <mxPoint x="11853" y="12905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-26" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="11828.02" y="13061" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11872.02" y="13036" as="sourcePoint" />
+            <mxPoint x="11722.02" y="13111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-28" value="На доработку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-27">
+          <mxGeometry x="-0.0888" y="-3" relative="1" as="geometry">
+            <mxPoint x="12" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11857.02" y="13086" as="sourcePoint" />
+            <mxPoint x="11996.02" y="13111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-30" value="Согласовано" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-29">
+          <mxGeometry x="-0.3513" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-31" value="Требуется доработка ИЭЗ экспертом&lt;br&gt;(статус = на доработке)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11639.02" y="13112" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-32" value="ИЭЗ согласовано&lt;br&gt;(статус = согласовано)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11909.02" y="13112" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-34" target="nErm5tFs4XZElu-OF5QW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11624.05" y="13244" as="sourcePoint" />
+            <mxPoint x="11748.05" y="12684" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="11639" y="13224" />
+              <mxPoint x="11594" y="13224" />
+              <mxPoint x="11594" y="12679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-34" value="Отправка ИЭЗ на доработку" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11639.02" y="13192" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-34">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11724.02" y="13162" as="sourcePoint" />
+            <mxPoint x="11734.02" y="13122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-36" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11993.71" y="13162" as="sourcePoint" />
+            <mxPoint x="11993.71" y="13192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-37" value="ИЭЗ по каждому направлению согласовано" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11909.02" y="13192" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11993.71" y="13242" as="sourcePoint" />
+            <mxPoint x="11993.71" y="13272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-39" value="Формирование СЭЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11909.02" y="13272" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-40" value="Отправка СЭЗ на согласование" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11599.02" y="13543" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-42">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11680.02" y="13593" as="sourcePoint" />
+            <mxPoint x="11689.02" y="13615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-42" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="11665.02" y="13651" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-42">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11709.02" y="13626" as="sourcePoint" />
+            <mxPoint x="11559.02" y="13701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-44" value="На доработку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-43">
+          <mxGeometry x="-0.1675" y="-2" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-42">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11694.02" y="13676" as="sourcePoint" />
+            <mxPoint x="11833.02" y="13701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-46" value="Согласовано" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-45">
+          <mxGeometry x="-0.3037" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-47" value="Требуется доработка СЭЗ куратором ЭГ&lt;br&gt;(статус = на доработке)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11479.02" y="13703" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-48" value="СЭЗ согласовано&lt;br&gt;(статус = согласовано или согласовано с дозапросами)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11749.02" y="13703" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11993.71" y="13322" as="sourcePoint" />
+            <mxPoint x="11993.71" y="13352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-54" target="nErm5tFs4XZElu-OF5QW-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-51" value="Рекомендуется дозапрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-50">
+          <mxGeometry x="-0.4359" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-54" target="nErm5tFs4XZElu-OF5QW-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-53" value="Информации достаточно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-52">
+          <mxGeometry x="-0.5862" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-54" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="11979.02" y="13352" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-57" target="nErm5tFs4XZElu-OF5QW-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-57" target="nErm5tFs4XZElu-OF5QW-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-57" value="Создание дозапроса" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12092.02" y="13393" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12162.02" y="13639.5" as="sourcePoint" />
+            <mxPoint x="12056.02" y="13674.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-59" value="На доработку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-58">
+          <mxGeometry x="-0.1199" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-60" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12192.02" y="13639.5" as="sourcePoint" />
+            <mxPoint x="12330.02" y="13674.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-61" value="Согласован" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="nErm5tFs4XZElu-OF5QW-60">
+          <mxGeometry x="-0.1631" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-62" value="Дозапрос не согласован&lt;br&gt;(статус = отправлен)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11966.02" y="13675.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-63" value="Дозапрос согласован&lt;br&gt;(статус = получен ответ)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12236.02" y="13675.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-64" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12050.71" y="13725.5" as="sourcePoint" />
+            <mxPoint x="12050.71" y="13755.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-65" value="Возврат дозапроса секретарю ЗК" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11966.02" y="13755.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-66" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12050.71" y="13805.5" as="sourcePoint" />
+            <mxPoint x="12050.71" y="13835.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-68" target="nErm5tFs4XZElu-OF5QW-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11954" y="13861" />
+              <mxPoint x="11954" y="13503" />
+              <mxPoint x="12082" y="13503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-68" value="Корректировка дозапроса" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11966.02" y="13835.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-69" value="Отправка дозапроса на согласование" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12092.02" y="13554.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-70" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12176.71" y="13594.5" as="sourcePoint" />
+            <mxPoint x="12176.71" y="13624.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-71" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="12162.02" y="13624.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-72" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12326.71" y="13725.5" as="sourcePoint" />
+            <mxPoint x="12326.71" y="13755.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-73" value="Отправка дозапроса участнику и получение ответа" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12242.02" y="13755.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-74" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="12326.71" y="13805.5" as="sourcePoint" />
+            <mxPoint x="12326.71" y="13835.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.999;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="12416" y="13935.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="12412" y="13855.5" />
+              <mxPoint x="12426" y="13855.5" />
+              <mxPoint x="12426" y="12740.5" />
+            </Array>
+            <mxPoint x="11928" y="12740.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-76" value="Инициация дополнительной экспертизы" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12242.02" y="13835.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-77" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11553.71" y="13753" as="sourcePoint" />
+            <mxPoint x="11553.71" y="13783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11484.02" y="13803" as="sourcePoint" />
+            <mxPoint x="11614.02" y="13563" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="11456" y="13803" />
+              <mxPoint x="11456" y="13495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-79" value="Внесение корректировок в&amp;nbsp; СЭЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11469.02" y="13783" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-80" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="11819.02" y="13824" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-81" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11834.02" y="13792" as="sourcePoint" />
+            <mxPoint x="11834.02" y="13826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-82" value="Формирование экспертной группы" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11758" y="12200" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-83" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-82">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="12170" as="sourcePoint" />
+            <mxPoint x="11853" y="12130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-84" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nErm5tFs4XZElu-OF5QW-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="11843" y="13025" as="sourcePoint" />
+            <mxPoint x="11843" y="13055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-85" value="Отдельный БП &quot;Работа с ИЭЗ&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12006" y="12604" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-87" target="nErm5tFs4XZElu-OF5QW-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-87" value="Создать СЭЗ Переторжка" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12052" y="12414" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-92" target="nErm5tFs4XZElu-OF5QW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-89" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nErm5tFs4XZElu-OF5QW-88">
+          <mxGeometry x="-0.2463" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-92" target="nErm5tFs4XZElu-OF5QW-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-91" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nErm5tFs4XZElu-OF5QW-90">
+          <mxGeometry x="-0.5687" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-92" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="11966.02" y="12370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-93" value="Проводилась ли переторжка по лоту закупки?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="11992" y="12340" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-94" value="&lt;div&gt;ИЭЗ Автоматически создается&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;на основе новых предложений после переторжки&lt;/span&gt;&lt;/div&gt;(статус = в работе)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12024.5" y="12490" width="225" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-94" target="nErm5tFs4XZElu-OF5QW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-97" target="nErm5tFs4XZElu-OF5QW-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-97" value="Рассмотрение СЭЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="11599.02" y="13470" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nErm5tFs4XZElu-OF5QW-99" target="nErm5tFs4XZElu-OF5QW-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nErm5tFs4XZElu-OF5QW-99" value="Рассмотрение дозапроса" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="12092" y="13479" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
