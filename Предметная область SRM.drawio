@@ -7775,6 +7775,21 @@
         <mxCell id="pGPHKikA8xJqfBnSFkjS-10" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); background-color: transparent;&quot;&gt;это &lt;u&gt;не&lt;/u&gt; Куратор ЭГ:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;в РГС есть &quot;Категорийные Управления&quot; (УЗРиУ, УЗО, УЗМ), их начальники и есть &quot;нач. подр. по экспертизе&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;они в своём Управлении назначают ответственного, который по данной закупке будет Куратором ЭГ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10981.5" y="14030" width="420" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pGPHKikA8xJqfBnSFkjS-11" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;кстати: эту стрелку можно поднять вот сюда,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;потому, что &quot;руководители&quot; при согласовании могут затребовать дозапрос&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11479.02" y="13410" width="260.98" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGPHKikA8xJqfBnSFkjS-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11479.02" y="13492" as="sourcePoint" />
+            <mxPoint x="11519.02" y="13460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGPHKikA8xJqfBnSFkjS-13" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;exitX=0.317;exitY=-0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11561.750660000002" y="13413.419999999998" as="sourcePoint" />
+            <mxPoint x="11909.02" y="13298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
