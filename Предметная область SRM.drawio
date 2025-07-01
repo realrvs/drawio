@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="22">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3969,6 +3969,12 @@
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xTBBz6FNJIJtpdkxHn_E-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="urR0Tzmdl88C2k-SKUU_-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="-128" as="sourcePoint" />
+            <mxPoint x="29.99592592592586" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="urR0Tzmdl88C2k-SKUU_-14" value="План закупок&lt;div&gt;(включая ПЗИВП)&lt;/div&gt;" style="text;strokeColor=#009900;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="urR0Tzmdl88C2k-SKUU_-13" vertex="1">
           <mxGeometry y="30" width="110" height="50" as="geometry" />
         </mxCell>
@@ -4166,7 +4172,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZJkY-u9vszOsqMEtYiw-56" value="2.23" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4ZJkY-u9vszOsqMEtYiw-56" value="2.23" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="50" y="-214" width="90" height="80" as="geometry">
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -4430,9 +4436,6 @@
         <mxCell id="Ijymjf42PIb6JJDR4Avk-9" value="Конструктор" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Ijymjf42PIb6JJDR4Avk-8" vertex="1">
           <mxGeometry y="30" width="85.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r7gKGYrWe4dWG0UKQdGF-3" value="&lt;b&gt;2&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="1" vertex="1">
-          <mxGeometry x="999" y="-177" width="31" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r7gKGYrWe4dWG0UKQdGF-8" value="2.19 (2)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#000000;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1039.5" y="-402" width="80" height="60" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
@@ -4465,7 +4468,7 @@
           <mxGeometry x="400" y="-120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yHIDGTn91IXn2CFi3s9p-2" value="2.25" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="-80" width="77.5" height="60" as="geometry">
+          <mxGeometry x="1040" y="-80" width="77.5" height="60" as="geometry">
             <mxRectangle x="100" y="90" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4505,9 +4508,6 @@
         <mxCell id="pMe4UdJ5UOKgeCuHCV-p-8" value="&lt;font style=&quot;color: rgb(0, 255, 0);&quot;&gt;30.06.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1137.5" y="-247" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pMe4UdJ5UOKgeCuHCV-p-15" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="1" vertex="1">
-          <mxGeometry x="996" y="-243" width="31" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pMe4UdJ5UOKgeCuHCV-p-16" value="&lt;b&gt;?&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="1" vertex="1">
           <mxGeometry x="996" y="-70" width="31" height="30" as="geometry" />
         </mxCell>
@@ -4531,20 +4531,23 @@
             <mxPoint x="329.99592592592586" y="-449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTBBz6FNJIJtpdkxHn_E-3" value="&lt;font color=&quot;#0000ff&quot;&gt;работа ДЗ (согласование ВЗОД)&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 255), rgb(205, 205, 255)); background-color: transparent;&quot;&gt;работа Инициатора (согласование УЗ и НЗ)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-803" width="260" height="30" as="geometry" />
+        <mxCell id="xTBBz6FNJIJtpdkxHn_E-3" value="&lt;font color=&quot;#0000ff&quot;&gt;работа ДЗ&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;(согласование ВЗОД)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="-790" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xTBBz6FNJIJtpdkxHn_E-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="-750" as="sourcePoint" />
+            <mxPoint x="850" y="-730" as="sourcePoint" />
             <mxPoint x="754.9259259259259" y="-189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xTBBz6FNJIJtpdkxHn_E-5" value="&lt;font color=&quot;#0000ff&quot;&gt;проведение УЗ&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-788" width="101" height="30" as="geometry" />
+          <mxGeometry x="840" y="-758" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xTBBz6FNJIJtpdkxHn_E-7" value="&lt;font color=&quot;#0000ff&quot;&gt;ведение справочников ЗК&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="-758" width="151" height="30" as="geometry" />
+          <mxGeometry x="585" y="-758" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xTBBz6FNJIJtpdkxHn_E-9" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 255), rgb(205, 205, 255)); background-color: transparent;&quot;&gt;работа Инициатора&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 255), rgb(205, 205, 255)); background-color: transparent;&quot;&gt;(согласование УЗ и НЗ)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-790" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -5974,7 +5977,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="-6447" dy="-4719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
