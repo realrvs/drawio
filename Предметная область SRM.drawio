@@ -4543,7 +4543,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lYSZipy5Fatd23PrCpvN" name="2.18 (2.16) Проведение закупок ">
-    <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4601,24 +4601,12 @@
             <mxPoint x="490" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="dR28KINpzwv_X_DPLxsA-6" target="dR28KINpzwv_X_DPLxsA-53" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="500" y="220" as="sourcePoint" />
-            <mxPoint x="330" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="dR28KINpzwv_X_DPLxsA-6" target="dR28KINpzwv_X_DPLxsA-52" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="445" y="565" as="sourcePoint" />
-            <mxPoint x="570" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dR28KINpzwv_X_DPLxsA-49" target="dR28KINpzwv_X_DPLxsA-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="570" y="650" as="sourcePoint" />
             <mxPoint x="480" y="775" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="605" y="775" />
+              <mxPoint x="585" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4634,8 +4622,8 @@
         <mxCell id="dR28KINpzwv_X_DPLxsA-22" value="Формирование содержания&lt;div&gt;Секретарем ЗК&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="830" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-24" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Конкурс в электронной форме&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="600" width="120" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-24" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Конкурс&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="638.88" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dR28KINpzwv_X_DPLxsA-24" target="dR28KINpzwv_X_DPLxsA-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -4698,23 +4686,14 @@
         <mxCell id="dR28KINpzwv_X_DPLxsA-46" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Подготовка извещения&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="420" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-47" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Открытый аукцион&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+        <mxCell id="dR28KINpzwv_X_DPLxsA-47" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Аукцион&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="640" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-48" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Открытый конкурс&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="600" width="120" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-48" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Запрос предложений&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="640.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-49" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;Аукцион в электронной форме&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="600" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-50" value="Открытый запрос котировок" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="600" width="125" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;Открытый запрос предложений&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="600" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-53" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;Запрос котировок в электронной форме&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry y="600" width="120" height="50" as="geometry" />
+        <mxCell id="dR28KINpzwv_X_DPLxsA-49" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;Запрос котировок&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="638.88" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="dR28KINpzwv_X_DPLxsA-6" target="dR28KINpzwv_X_DPLxsA-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -4728,15 +4707,6 @@
             <mxPoint x="-340" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-57" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="dR28KINpzwv_X_DPLxsA-6" target="dR28KINpzwv_X_DPLxsA-50" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="800" y="530" as="sourcePoint" />
-            <mxPoint x="1202" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="753" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="dR28KINpzwv_X_DPLxsA-6" target="dR28KINpzwv_X_DPLxsA-49" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="800" y="520" as="sourcePoint" />
@@ -4747,33 +4717,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="530" as="sourcePoint" />
             <mxPoint x="1122" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-61" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dR28KINpzwv_X_DPLxsA-50" target="dR28KINpzwv_X_DPLxsA-7" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="870" y="530" as="sourcePoint" />
-            <mxPoint x="1133" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="753" y="775" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-67" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dR28KINpzwv_X_DPLxsA-52" target="dR28KINpzwv_X_DPLxsA-7" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="970" y="480" as="sourcePoint" />
-            <mxPoint x="1233" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="892" y="775" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dR28KINpzwv_X_DPLxsA-68" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dR28KINpzwv_X_DPLxsA-53" target="dR28KINpzwv_X_DPLxsA-7" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="140" y="720" as="sourcePoint" />
-            <mxPoint x="500" y="845" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="775" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dR28KINpzwv_X_DPLxsA-69" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="dR28KINpzwv_X_DPLxsA-47" target="dR28KINpzwv_X_DPLxsA-7" edge="1">
