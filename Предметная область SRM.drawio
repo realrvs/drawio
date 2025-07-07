@@ -3899,7 +3899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IzqXna0y6BrleOZsdOQ" name="процессы / ТЗ">
-    <mxGraphModel dx="1559" dy="2619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1561" dy="2619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4166,7 +4166,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZJkY-u9vszOsqMEtYiw-54" value="КЦД" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4ZJkY-u9vszOsqMEtYiw-53" vertex="1">
+        <mxCell id="4ZJkY-u9vszOsqMEtYiw-54" value="&lt;b&gt;КЦД&lt;/b&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4ZJkY-u9vszOsqMEtYiw-53" vertex="1">
           <mxGeometry y="30" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ZJkY-u9vszOsqMEtYiw-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -4465,8 +4465,8 @@
         <mxCell id="hdoMxPmUqgekbJDnO_fK-2" value="Татьяна Разживина" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="165" y="-130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hdoMxPmUqgekbJDnO_fK-3" value="Галина&amp;nbsp;&lt;div&gt;Розина&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="385" y="-130" width="60" height="30" as="geometry" />
+        <mxCell id="hdoMxPmUqgekbJDnO_fK-3" value="Галина&amp;nbsp;&lt;div&gt;Розина - отпуск&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="367.5" y="-90" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yHIDGTn91IXn2CFi3s9p-2" value="2.25" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1044.25" y="-71" width="77.5" height="40" as="geometry">
@@ -4518,12 +4518,12 @@
         <mxCell id="OccUJFoVVdHqWFt7B5vQ-7" value="Отчеты" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="OccUJFoVVdHqWFt7B5vQ-6" vertex="1">
           <mxGeometry y="30" width="80.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OccUJFoVVdHqWFt7B5vQ-9" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;04.07. по диагонали&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OccUJFoVVdHqWFt7B5vQ-9" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;04.07. по диагонали&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1137" y="-211" width="151" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OccUJFoVVdHqWFt7B5vQ-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="834" y="-790" as="sourcePoint" />
+            <mxPoint x="834" y="-800" as="sourcePoint" />
             <mxPoint x="730" y="-191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -4532,6 +4532,9 @@
             <mxPoint x="630" y="-800" as="sourcePoint" />
             <mxPoint x="536" y="-290.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bZedBhn_jXu3yOpu34PD-2" value="Татьяна Разживина" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
