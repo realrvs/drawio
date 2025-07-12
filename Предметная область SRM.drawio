@@ -4572,10 +4572,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IDhD91McdvEimW8ktCJB" name="показ Планирование">
-    <mxGraphModel dx="2350" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2IY4vvzgAgy17NtvLC-3-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#999999;" parent="1" source="2IY4vvzgAgy17NtvLC-3-18" target="2IY4vvzgAgy17NtvLC-3-22" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="459" y="1166.5" as="sourcePoint" />
+            <mxPoint x="460" y="1231.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="895" />
+              <mxPoint x="720" y="1466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FMhfVej79Cii3MgqeImI-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FMhfVej79Cii3MgqeImI-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1300" y="115" as="sourcePoint" />
@@ -4624,10 +4634,14 @@
             <mxPoint x="601" y="1656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2IY4vvzgAgy17NtvLC-3-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2IY4vvzgAgy17NtvLC-3-18" target="2IY4vvzgAgy17NtvLC-3-22" edge="1">
+        <mxCell id="2IY4vvzgAgy17NtvLC-3-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2IY4vvzgAgy17NtvLC-3-18" target="2IY4vvzgAgy17NtvLC-3-22" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="408" y="901.5" as="sourcePoint" />
-            <mxPoint x="603" y="926.5" as="targetPoint" />
+            <mxPoint x="541" y="910" as="sourcePoint" />
+            <mxPoint x="546" y="1451" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="895" />
+              <mxPoint x="550" y="1466" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d9AD219EN8v2rie5cWjK-40" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2IY4vvzgAgy17NtvLC-3-78" target="2IY4vvzgAgy17NtvLC-3-75" edge="1">
@@ -4744,37 +4758,19 @@
           <mxGeometry x="578" y="880" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-19" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;Согласование&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;ЕИО / ЕИО+ДЗ / ЕИО+ДЗ+ДФН&lt;/font&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="725" y="1046.5" width="170" height="50" as="geometry" />
+          <mxGeometry x="659.5" y="1046.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-21" value="Отправка на согласование ЦЗК" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="1046.5" width="170" height="50" as="geometry" />
+          <mxGeometry x="456" y="1046.5" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-22" value="" style="rhombus;" parent="1" vertex="1">
           <mxGeometry x="583" y="1451" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2IY4vvzgAgy17NtvLC-3-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#999999;" parent="1" source="2IY4vvzgAgy17NtvLC-3-19" target="2IY4vvzgAgy17NtvLC-3-22" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="459" y="1166.5" as="sourcePoint" />
-            <mxPoint x="460" y="1231.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="810" y="1466" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-27" value="Формирование Вопроса (вкючает в себя Контейнер)" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="916.5" width="170" height="50" as="geometry" />
+          <mxGeometry x="456" y="916.5" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-28" value="Создание Обращения в ЦЗК (включает в себя Вопрос)" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="983" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2IY4vvzgAgy17NtvLC-3-29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#999999;" parent="1" target="2IY4vvzgAgy17NtvLC-3-19" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="605" y="895" as="sourcePoint" />
-            <mxPoint x="440" y="886.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="810" y="895" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="456" y="983" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-35" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;Отправка на оценку&amp;nbsp;Корпорацией МСП&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="571" y="1784.38" width="170" height="50" as="geometry" />
@@ -4783,10 +4779,10 @@
           <mxGeometry x="516" y="1491" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-48" value="Процесс согласования&amp;nbsp;&lt;div&gt;внутри ПО, РГС, ДЗ&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="1110" width="170" height="50" as="geometry" />
+          <mxGeometry x="456" y="1110" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-49" value="Голосование ЦЗК,&lt;div&gt;расчет кворума&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="1300" width="170" height="50" as="geometry" />
+          <mxGeometry x="456" y="1300" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-53" value="" style="rhombus;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="584.5" y="1729.38" width="30" height="30" as="geometry" />
@@ -4826,13 +4822,13 @@
           <mxGeometry x="441" y="1710" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-69" value="Создание проекта Протокола" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="1170" width="170" height="50" as="geometry" />
+          <mxGeometry x="456" y="1170" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-70" value="Создание бюллетеней для голосования" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="1230" width="170" height="50" as="geometry" />
+          <mxGeometry x="456" y="1230" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-71" value="Создание и подписание итогового протокола" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="513" y="1370" width="170" height="50" as="geometry" />
+          <mxGeometry x="461" y="1370" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2IY4vvzgAgy17NtvLC-3-75" value="" style="rhombus;" parent="1" vertex="1">
           <mxGeometry x="575" y="567" width="30" height="30" as="geometry" />
