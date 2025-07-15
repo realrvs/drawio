@@ -4989,14 +4989,11 @@
         <mxCell id="e8vhQpfRgMnX38yM1wds-8" value="Директор ДЗ" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1302" y="1037" width="116" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="e8vhQpfRgMnX38yM1wds-9" value="Начальник ОЗ" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1353" y="1112" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="e8vhQpfRgMnX38yM1wds-10" value="Лот согласован" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1353" y="1153.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="1353" y="1116.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8vhQpfRgMnX38yM1wds-12" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1424" y="1287" width="30" height="30" as="geometry" />
+          <mxGeometry x="1424" y="1250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8vhQpfRgMnX38yM1wds-13" value="блок &quot;Работа ЕИО&quot;,&amp;nbsp;&lt;div&gt;ТЗ.2.15&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1155" y="699" width="80" height="80" as="geometry" />
@@ -5008,15 +5005,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e8vhQpfRgMnX38yM1wds-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;проверка невозможности включения ВЗЛ в План закупок&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1353" y="1193.5" width="170" height="53.5" as="geometry" />
+          <mxGeometry x="1353" y="1156.5" width="170" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="e8vhQpfRgMnX38yM1wds-16" value="блок &quot;Формирование Плана закупок&quot;,&lt;div&gt;&amp;nbsp;ТЗ.2.12&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="1196.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="1155" y="1159.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e8vhQpfRgMnX38yM1wds-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1165" y="1187.5" as="sourcePoint" />
-            <mxPoint x="1295" y="1187.5" as="targetPoint" />
+            <mxPoint x="1165" y="1150.5" as="sourcePoint" />
+            <mxPoint x="1295" y="1150.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-cC5hMPwOx7E5BWPOZpE-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
@@ -5058,7 +5055,7 @@
         <mxCell id="-JYgQ8e_RcpnWVO_KKiB-28" value="Начальник ОЗ" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2168" y="490" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-JYgQ8e_RcpnWVO_KKiB-29" value="ЕИП ПО" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+        <mxCell id="-JYgQ8e_RcpnWVO_KKiB-29" value="ЕИО ПО" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2167" y="530" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-JYgQ8e_RcpnWVO_KKiB-30" value="Рассмотрение РГС:&lt;div&gt;Ген.Дир. РГС&lt;/div&gt;&lt;div&gt;ЗГД РГС по закупкам ТРУ&lt;/div&gt;&lt;div&gt;Нач. Управления&lt;/div&gt;&lt;div&gt;Куратор в Управлении&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
