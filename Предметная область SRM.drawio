@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.1" pages="24">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5" pages="24">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3899,7 +3899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-IzqXna0y6BrleOZsdOQ" name="процессы / ТЗ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2148" dy="2849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4561,7 +4561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IDhD91McdvEimW8ktCJB" name="показ Планирование">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4864,13 +4864,13 @@
             <mxPoint x="503" y="677" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="510FI5eZ_3V3hc5yyMEy-61" value="блок &quot;Работа ЕИО&quot;,&lt;div&gt;&amp;nbsp;ТЗ.2.15&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="366" y="1541" width="80" height="80" as="geometry" />
+        <mxCell id="510FI5eZ_3V3hc5yyMEy-61" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;блок &quot;Работа ЕИО&quot;,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;&amp;nbsp;ТЗ.2.15&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="824" y="1551" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="510FI5eZ_3V3hc5yyMEy-62" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="510FI5eZ_3V3hc5yyMEy-62" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#999999;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="376" y="1549" as="sourcePoint" />
-            <mxPoint x="506" y="1549" as="targetPoint" />
+            <mxPoint x="834" y="1559" as="sourcePoint" />
+            <mxPoint x="964" y="1559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FMhfVej79Cii3MgqeImI-1" value="блок &quot;Формирование Плана закупок&quot;,&lt;div&gt;&amp;nbsp;ТЗ.2.12&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -5089,8 +5089,8 @@
         <mxCell id="-JYgQ8e_RcpnWVO_KKiB-41" value="&lt;font color=&quot;#0000ff&quot;&gt;Конкурс в ЭФ, сумма более 150 млн. руб. без НДС&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="686.5" y="684.5" width="328.5" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="-JYgQ8e_RcpnWVO_KKiB-42" value="&lt;font color=&quot;#0000ff&quot;&gt;ИПЛ на уменьшение стоимости и/или корректировку дат&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="695" y="1562.5" width="328.5" height="37" as="geometry" />
+        <mxCell id="-JYgQ8e_RcpnWVO_KKiB-42" value="&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;приведено как опция &lt;i style=&quot;&quot;&gt;согласования по цепочке &quot;ЕИО&lt;/i&gt;&quot;,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;на ДЕМО не показываем&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;ИПЛ на уменьшение стоимости и/или корректировку дат&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1099" y="1575.5" width="328.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="FIp-v_H-GgsKAG-n8iNU-1" value="Директор ДЗ" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2168" y="670" width="170" height="34" as="geometry" />
@@ -5204,13 +5204,13 @@
         <mxCell id="15z58tF49onofTxdcF-I-6" value="Позиция ККСУ согласована" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1355" y="511" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FMhfVej79Cii3MgqeImI-23" value="Отправка контейнера на согласование, выбор маршрута&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;ЕИО &lt;/b&gt;&lt;/u&gt;/ ЕИО+ДЗ / ЕИО+ДЗ+ДФН&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="516" y="1555" width="170" height="77" as="geometry" />
+        <mxCell id="FMhfVej79Cii3MgqeImI-23" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;Отправка контейнера на согласование, выбор маршрута&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;b&gt;ЕИО &lt;/b&gt;&lt;/u&gt;/ ЕИО+ДЗ / ЕИО+ДЗ+ДФН&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1568" width="170" height="77" as="geometry" />
         </mxCell>
         <mxCell id="15z58tF49onofTxdcF-I-8" value="Отправка контейнера на согласование, выбор маршрута&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;ЕИО / ЕИО+ДЗ / &lt;u&gt;&lt;b&gt;ЕИО+ДЗ+ДФН&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1357" y="699" width="170" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="4Qk1xOpMKY8cXpULBHPi-2" value="&lt;font color=&quot;#0000ff&quot;&gt;для корректной отправки по такому маршруту у ВЗЛ должна быть:&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;- стоимость более 50 млн. руб. и&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;- субподряд более, чем в ККСУ(или более 25% не по ККСУ)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4Qk1xOpMKY8cXpULBHPi-2" value="&lt;font color=&quot;#0000ff&quot;&gt;для корректной отправки по такому маршруту у ВЗЛ должна быть:&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;- стоимость более 50 млн. руб. и&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;- субподряд более, чем в ККСУ(или более 25% не по ККСУ)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1546" y="674.5" width="489" height="115" as="geometry" />
         </mxCell>
       </root>
