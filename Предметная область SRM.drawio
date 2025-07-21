@@ -4596,6 +4596,27 @@
             <mxPoint x="449.97" y="-413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4K2C-8eMS3CkFWXYWQDK-8" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-403" width="80" height="80" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4K2C-8eMS3CkFWXYWQDK-9" value="Справочник &lt;font style=&quot;font-size: 11px;&quot;&gt;Номенклатура&lt;/font&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="4K2C-8eMS3CkFWXYWQDK-8">
+          <mxGeometry y="30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4K2C-8eMS3CkFWXYWQDK-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="-404" as="sourcePoint" />
+            <mxPoint x="180" y="-450" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4K2C-8eMS3CkFWXYWQDK-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="-890" as="sourcePoint" />
+            <mxPoint x="200" y="-380.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
