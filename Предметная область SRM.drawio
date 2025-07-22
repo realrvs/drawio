@@ -6773,7 +6773,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5D3fF-1itNOgIBcN2zo" name="2.19 Экспертиза">
-    <mxGraphModel dx="-6783" dy="-5056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-6878" dy="-5061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7601,7 +7601,7 @@
         <mxCell id="2kxc58CvXzzwBA_cdmL_-72" value="Отправка дозапроса участнику (статус = отправлен)" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="10226.02" y="13714" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2kxc58CvXzzwBA_cdmL_-73" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.464;exitY=1.002;exitDx=0;exitDy=0;entryX=0.515;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" edge="1" target="2kxc58CvXzzwBA_cdmL_-75" source="2kxc58CvXzzwBA_cdmL_-72">
+        <mxCell id="2kxc58CvXzzwBA_cdmL_-73" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="2kxc58CvXzzwBA_cdmL_-75" source="2kxc58CvXzzwBA_cdmL_-72">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="10310.71" y="13764" as="sourcePoint" />
             <mxPoint x="10310.71" y="13794" as="targetPoint" />
@@ -7617,7 +7617,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2kxc58CvXzzwBA_cdmL_-75" value="&amp;nbsp;Получение ответа&lt;div&gt;(Статус = ответ получен)&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="10220.02" y="13790" width="170" height="50" as="geometry" />
+          <mxGeometry x="10225" y="13790" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2kxc58CvXzzwBA_cdmL_-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -7732,10 +7732,10 @@
         <mxCell id="p4hMp756p_a8YOVzEq4W-2" value="Инициация дополнительной экспертизы" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="10220" y="13860" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p4hMp756p_a8YOVzEq4W-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.529;exitY=1.029;exitDx=0;exitDy=0;entryX=0.52;entryY=-0.032;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="2kxc58CvXzzwBA_cdmL_-75" target="p4hMp756p_a8YOVzEq4W-2">
+        <mxCell id="p4hMp756p_a8YOVzEq4W-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.529;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2kxc58CvXzzwBA_cdmL_-75">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="10314.87" y="13830" as="sourcePoint" />
-            <mxPoint x="10314.87" y="13860" as="targetPoint" />
+            <mxPoint x="10310" y="13860" as="targetPoint" />
             <Array as="points">
               <mxPoint x="10310" y="13840" />
             </Array>
