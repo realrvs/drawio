@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4" pages="25">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6" pages="24">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11907,106 +11907,6 @@
         </mxCell>
         <mxCell id="82UbB81sUKuWqusL6UDY-2" value="Повторная отправка&lt;div&gt;&amp;nbsp;на согласование&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="430" width="140" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="LC8K1tUFxhjxtXljbrsU" name="2.8 Администрирование">
-    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="G0S2624h1iM1FtaAZ3lf-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="160" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390.5" y="132" width="19" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-2" target="G0S2624h1iM1FtaAZ3lf-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="160" as="sourcePoint" />
-            <mxPoint x="400" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-5" target="G0S2624h1iM1FtaAZ3lf-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Сотрудник или руководитель сотрудника создает&amp;nbsp;Заявку на предоставление полномочий в Системе&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Инициатор создает Сервисный запрос в СПП&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-6" target="G0S2624h1iM1FtaAZ3lf-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="340" as="targetPoint" />
-            <mxPoint x="399.71000000000004" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Оператор СПП перенаправляет запрос администратору системы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Администратор системы создает учетную запись пользователя&amp;nbsp; и присваивает полномочия согласно запросу&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="510" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="238.5" y="580" width="21.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-9" target="G0S2624h1iM1FtaAZ3lf-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="620" as="targetPoint" />
-            <mxPoint x="360" y="590" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-19" target="G0S2624h1iM1FtaAZ3lf-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="729.71" y="398" as="targetPoint" />
-            <mxPoint x="729.71" y="368" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-13" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Ученая запись пользователя существует в системе&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G0S2624h1iM1FtaAZ3lf-12">
-          <mxGeometry x="0.5517" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Администратор системы присваивает полномочия согласно запросу&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="510" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-15" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="559.25" y="580" width="21.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-14" target="G0S2624h1iM1FtaAZ3lf-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="498" as="targetPoint" />
-            <mxPoint x="800" y="468" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Создание нового пользователя/&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px;&quot;&gt;Изменение полномочий пользователя&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="229.25" y="50" width="330" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="390" as="targetPoint" />
-            <mxPoint x="470" y="380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.458;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G0S2624h1iM1FtaAZ3lf-19" target="G0S2624h1iM1FtaAZ3lf-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="530" as="targetPoint" />
-            <mxPoint x="360" y="430" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G0S2624h1iM1FtaAZ3lf-21" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Ученая запись пользователя не создана в системе&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G0S2624h1iM1FtaAZ3lf-20">
-          <mxGeometry x="0.5547" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
