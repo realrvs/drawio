@@ -2502,7 +2502,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qF38-vKvsJ4a-qH5FAlQ" name="2.11. Планирование потребностей + Статусная модель">
-    <mxGraphModel dx="2560" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2637" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3685,52 +3685,27 @@
             <mxPoint x="3631" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-16" value="Согласование Отменено" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3220" y="412.5" width="170" height="50" as="geometry" />
+        <mxCell id="sUVTnK6prcyKF5Sm0FLw-16" value="На доработке" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="410" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-17" value="Отклонена/отменена" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-14" target="sUVTnK6prcyKF5Sm0FLw-18" edge="1">
+        <mxCell id="sUVTnK6prcyKF5Sm0FLw-17" value="Не утверждена" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-14" target="sUVTnK6prcyKF5Sm0FLw-16" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="3520" y="328" as="sourcePoint" />
-            <mxPoint x="3420" y="384.5" as="targetPoint" />
+            <mxPoint x="3455" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3455" y="341" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-18" value="" style="rhombus;" parent="1" vertex="1">
-          <mxGeometry x="3440" y="370" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-18" target="sUVTnK6prcyKF5Sm0FLw-16" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3360" y="390" as="sourcePoint" />
-            <mxPoint x="3260" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3305" y="385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-18" target="sUVTnK6prcyKF5Sm0FLw-21" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3520" y="400" as="sourcePoint" />
-            <mxPoint x="3420" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3545" y="385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-21" value="Отклонена" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3460" y="412.5" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-22" value="&lt;div style=&quot;line-height: 20%;&quot;&gt;&lt;p class=&quot;MsoNormal&quot;&gt;если нет связи с лотом&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;или&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;сгруппированной потребностью.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3230" y="342.5" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sUVTnK6prcyKF5Sm0FLw-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-16" target="sUVTnK6prcyKF5Sm0FLw-10" edge="1">
+        <mxCell id="sUVTnK6prcyKF5Sm0FLw-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-16" target="0qTeSgRNzOquQsGelbWU-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="3250" y="300" as="sourcePoint" />
             <mxPoint x="3115" y="328" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3200" y="438" />
-              <mxPoint x="3200" y="275" />
+              <mxPoint x="3370" y="438" />
+              <mxPoint x="3350" y="438" />
+              <mxPoint x="3350" y="275" />
+              <mxPoint x="3400" y="275" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3745,16 +3720,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sUVTnK6prcyKF5Sm0FLw-27" value="Создание заявки на закупку, еще&amp;nbsp;&lt;div&gt;не отправлена на согласование&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3670" y="122.5" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3Dpc9Fipv1CpvDWM025I-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="3530" y="510" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3Dpc9Fipv1CpvDWM025I-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sUVTnK6prcyKF5Sm0FLw-21" target="3Dpc9Fipv1CpvDWM025I-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3555" y="462.5" as="sourcePoint" />
-            <mxPoint x="3470" y="132" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="3290" y="105" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Dpc9Fipv1CpvDWM025I-3" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="3790" y="470" width="30" height="30" as="geometry" />
@@ -3765,8 +3731,8 @@
             <mxPoint x="3720" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Dpc9Fipv1CpvDWM025I-5" value="Заявка на закупку отображается&amp;nbsp;&lt;div&gt;в реестре со статусом Отклонена&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3435" y="553" width="210" height="40" as="geometry" />
+        <mxCell id="3Dpc9Fipv1CpvDWM025I-5" value="После возврата на доработку,&amp;nbsp;&lt;div&gt;согласование отменено&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3250" y="195" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Dpc9Fipv1CpvDWM025I-6" value="Заявка отображается в реестре со статусом Согласована ЕИО ПО&lt;div&gt;и может быть добавлена в &lt;b&gt;Сгруппированную потребность&lt;/b&gt; или в &lt;b&gt;лот&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3620" y="503" width="420" height="40" as="geometry" />
@@ -3785,7 +3751,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3Dpc9Fipv1CpvDWM025I-10" value="Статусная модель Потребности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4120" y="22" width="200" height="30" as="geometry" />
+          <mxGeometry x="3880" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3Dpc9Fipv1CpvDWM025I-11" value="Согласована ЕИО ПО" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="4230" y="252" width="170" height="50" as="geometry" />
@@ -3794,7 +3760,7 @@
           <mxGeometry x="3325" y="18" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3Dpc9Fipv1CpvDWM025I-15" value="Потребность создана,&lt;div&gt;и может быть включена в заявку на закупку,&amp;nbsp;&lt;/div&gt;&lt;div&gt;но еще не согласована&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3980" y="97" width="270" height="60" as="geometry" />
+          <mxGeometry x="3860" y="40" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Dpc9Fipv1CpvDWM025I-16" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Автоматическая смена статуса&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;после согласования Заявки на закупку&lt;/span&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;" parent="1" source="3Dpc9Fipv1CpvDWM025I-7" target="3Dpc9Fipv1CpvDWM025I-11" edge="1">
           <mxGeometry y="25" width="160" relative="1" as="geometry">
@@ -3884,6 +3850,38 @@
         </mxCell>
         <mxCell id="-RK8GgsZLmwzwiCgSiOo-3" value="Варианты использования" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="6550" y="10" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0qTeSgRNzOquQsGelbWU-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="sUVTnK6prcyKF5Sm0FLw-10" target="sUVTnK6prcyKF5Sm0FLw-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3790" y="413" as="sourcePoint" />
+            <mxPoint x="4060" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3770" y="275" />
+              <mxPoint x="3770" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qTeSgRNzOquQsGelbWU-2" value="Инициатор отменил согласование" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="132.5" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0qTeSgRNzOquQsGelbWU-6" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0qTeSgRNzOquQsGelbWU-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0qTeSgRNzOquQsGelbWU-6" target="sUVTnK6prcyKF5Sm0FLw-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3370" y="180.5" as="sourcePoint" />
+            <mxPoint x="3450" y="180.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0qTeSgRNzOquQsGelbWU-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0qTeSgRNzOquQsGelbWU-6" target="sUVTnK6prcyKF5Sm0FLw-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3380" y="360" as="sourcePoint" />
+            <mxPoint x="3430" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3435" y="165" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
