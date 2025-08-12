@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7" pages="28">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7" pages="29">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13188,7 +13188,7 @@
           <mxGeometry x="158.75" y="260" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="faoeUcsKs446AFz1R_k8-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BP-TPL-01 Ведение библиотек шаблонов&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="108" y="60" width="330" height="70" as="geometry" />
+          <mxGeometry x="108" y="80" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_zE_2Ir-IeGi41qIIklX-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="faoeUcsKs446AFz1R_k8-1" target="faoeUcsKs446AFz1R_k8-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -13264,6 +13264,56 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="570" as="sourcePoint" />
             <mxPoint x="470" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Uuw3L1tsdQRDyRNafQOY" name="2.14 Отчеты 2">
+    <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410.25" y="102" width="19" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Открыть объект&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.75" y="140" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Нажать Выгрузить&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.75" y="220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BP-TPL-02 Выгрузка по шаблону&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="249" y="40" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ykakxLHkdQ-ccgNXjVbU-1" target="ykakxLHkdQ-ccgNXjVbU-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599" y="240" as="sourcePoint" />
+            <mxPoint x="649" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ykakxLHkdQ-ccgNXjVbU-2" target="ykakxLHkdQ-ccgNXjVbU-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599" y="240" as="sourcePoint" />
+            <mxPoint x="419" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Выбрать шаблон&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.75" y="280" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ykakxLHkdQ-ccgNXjVbU-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="sourcePoint" />
+            <mxPoint x="419" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;S40 Формирование актуального списка шаблонов&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.75" y="340" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykakxLHkdQ-ccgNXjVbU-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ykakxLHkdQ-ccgNXjVbU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="310" as="sourcePoint" />
+            <mxPoint x="419" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
