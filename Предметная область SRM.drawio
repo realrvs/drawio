@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7" pages="35">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7" pages="36">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13995,6 +13995,59 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="610" as="sourcePoint" />
             <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ea8O1GeFsH74D625XD1R" name="2.14 Отчеты UC 2">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-1" value="Секретарь ЗК" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-2" value="Сформировать шаблон бюллетеня" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-3" value="Разослать шаблон членам ЗК" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HeDOUeNsR7NSMXRmpurP-1" target="HeDOUeNsR7NSMXRmpurP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="210" as="sourcePoint" />
+            <mxPoint x="140" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HeDOUeNsR7NSMXRmpurP-1" target="HeDOUeNsR7NSMXRmpurP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="550" as="sourcePoint" />
+            <mxPoint x="170" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-6" value="Версионировать шаблон" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="171" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.964;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HeDOUeNsR7NSMXRmpurP-2" target="HeDOUeNsR7NSMXRmpurP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="120" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-8" value="Загрузить шаблон в систему" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HeDOUeNsR7NSMXRmpurP-1" target="HeDOUeNsR7NSMXRmpurP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="590" as="sourcePoint" />
+            <mxPoint x="220" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeDOUeNsR7NSMXRmpurP-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HeDOUeNsR7NSMXRmpurP-2" target="HeDOUeNsR7NSMXRmpurP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="530" as="sourcePoint" />
+            <mxPoint x="140" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
