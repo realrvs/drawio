@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0" pages="43">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0" pages="44">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16754,6 +16754,65 @@
             <mxPoint x="473" y="346" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jm8KPRahEGn8VWko1j6v" name="ЦЗК Рис 7">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-1" value="&lt;span style=&quot;font-size:14.0pt;mso-bidi-font-size:16.0pt;&lt;br/&gt;line-height:115%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:RU;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;span class=&quot;msoIns&quot;&gt;&lt;ins cite=&quot;mailto:%D0%90%D0%B2%D1%82%D0%BE%D1%80&quot;&gt;Диаграмма&lt;br/&gt;состояний статусов дозапросов&lt;/ins&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362" y="233.99999999999955" as="sourcePoint" />
+            <mxPoint x="362" y="233.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-3" value="Новый" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="195" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-4" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Ответ получен&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="422.24" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-5" value="Ответ не получен" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="298" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fzkmR4P7Ijiozy2VthDr-4" target="fzkmR4P7Ijiozy2VthDr-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="216.5" y="579.0000000000005" as="sourcePoint" />
+            <mxPoint x="216" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-7" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-8" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font&gt;присваивается&lt;br&gt;при создании&lt;/font&gt;&lt;/span&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fzkmR4P7Ijiozy2VthDr-7" target="fzkmR4P7Ijiozy2VthDr-3">
+          <mxGeometry x="0.0131" width="160" relative="1" as="geometry">
+            <mxPoint x="347" y="167" as="sourcePoint" />
+            <mxPoint x="497" y="247" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-9" value="при нажатии на кнопку&lt;div&gt;&quot;Отправить дозапрос&quot;&lt;/div&gt;" style="endArrow=open;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="fzkmR4P7Ijiozy2VthDr-5">
+          <mxGeometry x="0.0131" width="160" relative="1" as="geometry">
+            <mxPoint x="217" y="247" as="sourcePoint" />
+            <mxPoint x="225" y="205" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-10" value="создан ответ на дозапрос" style="endArrow=open;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fzkmR4P7Ijiozy2VthDr-5" target="fzkmR4P7Ijiozy2VthDr-4">
+          <mxGeometry x="0.0131" width="160" relative="1" as="geometry">
+            <mxPoint x="216" y="416" as="sourcePoint" />
+            <mxPoint x="245" y="225" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzkmR4P7Ijiozy2VthDr-11" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="200.9999999999991" y="512" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
