@@ -13310,7 +13310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6b9h6HlSR-kxjXFVORuB" name="2.15 Согласованию закупок в контейнере «Согласование ЕИО ПО»">
-    <mxGraphModel dx="525" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1905" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13707,9 +13707,6 @@
         <mxCell id="qajUDkUgPzbIELzdFj5_-48" value="Решение согласовано ДЗ и ДФН" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1996" y="1710" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qajUDkUgPzbIELzdFj5_-49" value="Руководитель ДФН" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2120" y="1520" width="170" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="qajUDkUgPzbIELzdFj5_-56" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1540" y="1490" width="30" height="30" as="geometry" />
         </mxCell>
@@ -13786,7 +13783,7 @@
             <mxPoint x="2010" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6JuJqtOMf3l5XHs4nDY-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="g6JuJqtOMf3l5XHs4nDY-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qajUDkUgPzbIELzdFj5_-49">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2200" y="1480" as="sourcePoint" />
             <mxPoint x="2200" y="1520" as="targetPoint" />
@@ -13805,11 +13802,14 @@
             <mxPoint x="1966" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6JuJqtOMf3l5XHs4nDY-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="g6JuJqtOMf3l5XHs4nDY-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qajUDkUgPzbIELzdFj5_-49">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2200" y="1570" as="sourcePoint" />
+            <mxPoint x="2200" y="1640" as="sourcePoint" />
             <mxPoint x="2200" y="1690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qajUDkUgPzbIELzdFj5_-49" value="Руководитель ДФН" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="2115" y="1600" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
