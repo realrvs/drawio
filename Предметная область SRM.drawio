@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="67">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="68">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22595,6 +22595,152 @@
             <mxPoint x="710" y="305" as="targetPoint" />
             <Array as="points">
               <mxPoint x="850" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2mhaDZ-uh_LqVGGVjMxi" name="ЕИО Рис 3">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ROL2QIaSU-knep48w4aV-1" value="Решение ЕИО" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="104" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-2" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Решение согласовано ДЗ&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="104" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-3" value="Рассмотрение РГС" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="829" y="104" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-4" value="Согласование ДЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="994" y="104" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-1" target="ROL2QIaSU-knep48w4aV-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="875" y="124" as="sourcePoint" />
+            <mxPoint x="1070" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.035;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-3" target="ROL2QIaSU-knep48w4aV-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1060" y="192" as="sourcePoint" />
+            <mxPoint x="1060" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-4" target="ROL2QIaSU-knep48w4aV-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1070" y="222" as="sourcePoint" />
+            <mxPoint x="1070" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-8" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1394" y="114" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-2" target="ROL2QIaSU-knep48w4aV-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1455" y="129" as="sourcePoint" />
+            <mxPoint x="1505" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-10" value="С ДЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="73" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ROL2QIaSU-knep48w4aV-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="738.9966666666664" y="154" as="sourcePoint" />
+            <mxPoint x="542.3299999999999" y="227" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="739" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-12" value="Новый" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="104" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-13" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Согласование ОЗ&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="104" width="116" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-14" value="Согласование ОИ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="104" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-15" value="Согласование ФЭО" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="104" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-12" target="ROL2QIaSU-knep48w4aV-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="194" y="124" as="sourcePoint" />
+            <mxPoint x="389" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-14" target="ROL2QIaSU-knep48w4aV-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="379" y="192" as="sourcePoint" />
+            <mxPoint x="344" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-15" target="ROL2QIaSU-knep48w4aV-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="389" y="222" as="sourcePoint" />
+            <mxPoint x="389" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-19" value="На доработке" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="204" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.234;entryY=-0.001;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-12" target="ROL2QIaSU-knep48w4aV-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="57" y="154" as="sourcePoint" />
+            <mxPoint x="174" y="64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.816;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-19" target="ROL2QIaSU-knep48w4aV-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="424" as="sourcePoint" />
+            <mxPoint x="604" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-15" target="ROL2QIaSU-knep48w4aV-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="334" y="244" as="sourcePoint" />
+            <mxPoint x="389" y="244" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="408" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.518;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-13" target="ROL2QIaSU-knep48w4aV-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="574" y="156" as="sourcePoint" />
+            <mxPoint x="454" y="287" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="574" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-13" target="ROL2QIaSU-knep48w4aV-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="840" y="76" as="sourcePoint" />
+            <mxPoint x="880" y="76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.492;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-3" target="ROL2QIaSU-knep48w4aV-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="824" y="236" as="sourcePoint" />
+            <mxPoint x="864" y="236" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="894" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROL2QIaSU-knep48w4aV-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROL2QIaSU-knep48w4aV-4" target="ROL2QIaSU-knep48w4aV-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1054" y="166" as="sourcePoint" />
+            <mxPoint x="774" y="276" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1074" y="229" />
             </Array>
           </mxGeometry>
         </mxCell>
