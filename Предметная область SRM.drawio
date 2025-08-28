@@ -955,7 +955,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xq5sCzhhsKq8fORqRZZ8" name="2.12 Статусы">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1051,8 +1051,8 @@
             <mxPoint x="666" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eiJY1V5JP-PtWBzRAekC-24" value="План закупок" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="635" y="110" width="110" height="30" as="geometry" />
+        <mxCell id="eiJY1V5JP-PtWBzRAekC-24" value="Статусная модель_ План закупок" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="100" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiJY1V5JP-PtWBzRAekC-25" value="" style="rhombus;" parent="1" vertex="1">
           <mxGeometry x="642" y="872" width="30" height="30" as="geometry" />
@@ -1093,8 +1093,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eiJY1V5JP-PtWBzRAekC-32" value="Контейнер" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1395.13" y="110" width="110" height="30" as="geometry" />
+        <mxCell id="eiJY1V5JP-PtWBzRAekC-32" value="Статусная модель _ Контейнер" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1364.13" y="90" width="214.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiJY1V5JP-PtWBzRAekC-33" value="&lt;span style=&quot;font-size:10.0pt;line-height:115%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Новый&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1495" y="258" width="170" height="50" as="geometry" />
