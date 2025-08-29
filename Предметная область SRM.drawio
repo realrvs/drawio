@@ -17126,6 +17126,9 @@
         <mxCell id="QmBXE3EwnL9acmH6c00M-0" value="фронт" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HaY8drDbm0udXo7mg0b6-1" vertex="1">
           <mxGeometry x="40" y="110" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uk9AKWKX_hUPzYHT_5Rm-0" value="Нужна связка:&#xa;1. Контейнер - Вопрос, по кнопке &quot;Сформировать вопрос на ЦЗК&quot; из реестра контейнера&#xa;2. Вопрос - Обращение в ЦЗК,  по кнопке &quot;Отправить для включения в обращение&quot; из реестра вопросов&#xa;3. Обращение в ЦЗК - Проект протоколов ЦЗК, по кнопке &quot;Отправить для включения в проект протокола&quot; из реестра обращений в ЦЗК&#xa;4. Проект протоколов ЦЗК - кнопка &quot;Расчет кворума&quot; и &quot;Проставить голоса&quot; - открывается экранная форма «Голосование ЦЗК» по кнопке &quot;Завершить голосование и создать итоговый протокол» будет сформирован итоговый протокол ЦЗК и осуществлен переход к реестру «Протоколы ЦЗК»" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="HaY8drDbm0udXo7mg0b6-1">
+          <mxGeometry x="20" y="280" width="230" height="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
