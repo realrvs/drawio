@@ -24372,6 +24372,15 @@
         <mxCell id="t53dkJIBRvIAiDl5A6Gp-8" value="&lt;span class=&quot;node&quot;&gt;&lt;span&gt;Рассмотрение&lt;br&gt;Ген. директором РГС&lt;/span&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="eA1bGxqgSVNMTAL9UrMy-1">
           <mxGeometry x="761.8299999999998" y="-1733" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uj3z62JUlGSCZv4YCRfq-0" value="При определенных параметрах (стоимость, доля субподряда) лот также доступен для включения в контейнер&amp;nbsp;&lt;span style=&quot;text-align: center;&quot; class=&quot;node&quot;&gt;с типом &quot;Согласование ЕИО ПО&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; class=&quot;node&quot;&gt;и маршрутом&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;ЕИО ПО&quot;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eA1bGxqgSVNMTAL9UrMy-1">
+          <mxGeometry x="1012.72" y="-2790" width="266.94" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uj3z62JUlGSCZv4YCRfq-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="eA1bGxqgSVNMTAL9UrMy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="-2700" as="sourcePoint" />
+            <mxPoint x="1000" y="-2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
