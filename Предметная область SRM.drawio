@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="107">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2" pages="107">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21911,7 +21911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njO30Ej8aQAT-YqFB8hz" name="ООО Рис 10">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22025,7 +22025,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gae_rGADwfcWNe-ydqP2-31" value="Отклонение заявки" style="html=1;whiteSpace=wrap;rounded=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="gae_rGADwfcWNe-ydqP2-31" value="Отклонение заявки&lt;br&gt;Статус &quot;не аккредитован&quot; (нет ответа на дозапрос)" style="html=1;whiteSpace=wrap;rounded=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="260" y="888" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gae_rGADwfcWNe-ydqP2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gae_rGADwfcWNe-ydqP2-3" target="gae_rGADwfcWNe-ydqP2-31" edge="1">
