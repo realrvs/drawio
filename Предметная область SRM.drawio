@@ -16984,7 +16984,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ea8O1GeFsH74D625XD1R" name="2.14 Отчеты UC 2">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16995,7 +16995,7 @@
           <mxGeometry x="240" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HeDOUeNsR7NSMXRmpurP-3" value="Разослать шаблон членам ЗК" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="360" width="140" height="70" as="geometry" />
+          <mxGeometry x="230" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HeDOUeNsR7NSMXRmpurP-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HeDOUeNsR7NSMXRmpurP-1" target="HeDOUeNsR7NSMXRmpurP-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17033,15 +17033,24 @@
             <mxPoint x="140" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uuL7zGj8tzI1MMp4F1Vd-1" value="Повторное направление бюллетеня члену ЗК" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uuL7zGj8tzI1MMp4F1Vd-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="uuL7zGj8tzI1MMp4F1Vd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_IfGRPEY1VAGV6eX0sEq" name="2.14 Отчеты UC 3">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g6bdJHHMKQnlbadJpkMZ-1" value="Председатель ЗК" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="g6bdJHHMKQnlbadJpkMZ-1" value="Секретарь ЗК" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g6bdJHHMKQnlbadJpkMZ-2" value="Система" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
