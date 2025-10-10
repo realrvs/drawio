@@ -38179,50 +38179,50 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Э Рис 5 нов" id="L7-NW0xYw8M78sR3bQvb">
-    <mxGraphModel dx="1654" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="GYyqu-Zr5i8pitDgQti0-0" />
         <mxCell id="GYyqu-Zr5i8pitDgQti0-1" parent="GYyqu-Zr5i8pitDgQti0-0" />
         <mxCell id="bbSzccsZUHFiOOqWJRDo-16" value="Отклонить" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="275" y="690" width="80" height="30" as="geometry" />
+          <mxGeometry x="276" y="696" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-0" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="389" y="108" width="30" height="30" as="geometry" />
+          <mxGeometry x="389" y="38" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-1" value="Создание шапки СЭЗ (Секретарь ЗК/Куратор ЭГ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="319" y="168" width="170" height="50" as="geometry" />
+          <mxGeometry x="319" y="98" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-2" value="Создание ИЭЗ для члена ЭГ системой АИСУЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="319" y="248" width="170" height="50" as="geometry" />
+          <mxGeometry x="319" y="178" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" target="bbSzccsZUHFiOOqWJRDo-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="404" y="128" as="sourcePoint" />
-            <mxPoint x="529" y="458" as="targetPoint" />
+            <mxPoint x="404" y="58" as="sourcePoint" />
+            <mxPoint x="529" y="388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-1" target="bbSzccsZUHFiOOqWJRDo-2">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="414" y="138" as="sourcePoint" />
-            <mxPoint x="414" y="178" as="targetPoint" />
+            <mxPoint x="414" y="68" as="sourcePoint" />
+            <mxPoint x="414" y="108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-5" value="Проверка полноты и корректности включённых ИЭЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="319" y="408" width="170" height="50" as="geometry" />
+          <mxGeometry x="319" y="338" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" target="bbSzccsZUHFiOOqWJRDo-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="404" y="378" as="sourcePoint" />
-            <mxPoint x="414" y="338" as="targetPoint" />
+            <mxPoint x="404" y="308" as="sourcePoint" />
+            <mxPoint x="414" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bbSzccsZUHFiOOqWJRDo-7" value="Формирование СЭЗ + мини СЭЗ (заполнение основной информации" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="318.6399999999994" y="491" width="170" height="50" as="geometry" />
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-7" value="Формирование СЭЗ&amp;nbsp;&lt;div&gt;+ мини СЭЗ&amp;nbsp;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
+          <mxGeometry x="318.6399999999994" y="494" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-8" value="Сохранение и отправка СЭЗ на согласование" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
           <mxGeometry x="318.6399999999994" y="571" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bbSzccsZUHFiOOqWJRDo-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" target="bbSzccsZUHFiOOqWJRDo-8">
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" target="bbSzccsZUHFiOOqWJRDo-8" source="bbSzccsZUHFiOOqWJRDo-7">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="403.6399999999994" y="541" as="sourcePoint" />
             <mxPoint x="413.6399999999994" y="501" as="targetPoint" />
@@ -38235,19 +38235,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-11" value="Работа Членов ЭГ над ИЭЗ и достижение ИЭЗ статуса &quot;Проверено&quot;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="319" y="328" width="170" height="50" as="geometry" />
+          <mxGeometry x="319" y="258" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" target="bbSzccsZUHFiOOqWJRDo-11">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="404" y="298" as="sourcePoint" />
-            <mxPoint x="414" y="258" as="targetPoint" />
+            <mxPoint x="404" y="228" as="sourcePoint" />
+            <mxPoint x="414" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-13" target="bbSzccsZUHFiOOqWJRDo-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bbSzccsZUHFiOOqWJRDo-13" value="Решение по СЭЗ" style="rhombus;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="343.1399999999994" y="682" width="121" height="78" as="geometry" />
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-13" value="Решение &#xa;по СЭЗ" style="rhombus;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
+          <mxGeometry x="356.57" y="691" width="94.14" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-13" target="bbSzccsZUHFiOOqWJRDo-24">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -38280,7 +38280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-21" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="545.9300000000003" y="932" width="30" height="30" as="geometry" />
+          <mxGeometry x="545.9300000000003" y="937" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-22" value="СЭЗ согласовано (если требуется дозапросы, процесс Дозапросы и доп. экспертиза)" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
           <mxGeometry x="463" y="842" width="195" height="68" as="geometry" />
@@ -38294,19 +38294,19 @@
         <mxCell id="bbSzccsZUHFiOOqWJRDo-24" value="Изменение статуса СЭЗ на &quot;Согласовано&quot;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
           <mxGeometry x="465" y="762" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bbSzccsZUHFiOOqWJRDo-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-7" target="bbSzccsZUHFiOOqWJRDo-2">
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-46" target="bbSzccsZUHFiOOqWJRDo-2">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="30" y="400" as="sourcePoint" />
-            <mxPoint x="319.72999999999956" y="441" as="targetPoint" />
+            <mxPoint x="451.1399999999999" y="436" as="sourcePoint" />
+            <mxPoint x="319.72999999999956" y="433" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="516" />
-              <mxPoint x="550" y="273" />
+              <mxPoint x="550" y="439" />
+              <mxPoint x="550" y="203" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-28" value="Возврат на доработку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="bbSzccsZUHFiOOqWJRDo-27">
           <mxGeometry x="-0.3513" y="1" relative="1" as="geometry">
-            <mxPoint x="11" y="13" as="offset" />
+            <mxPoint x="-29" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;Выгрузка балов и выгрузка СЭЗ будет организована из системы&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
@@ -38319,12 +38319,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-31" value="Формирование и согласование СЭЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
-          <mxGeometry x="165" y="40" width="220" height="30" as="geometry" />
+          <mxGeometry x="165" y="11" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bbSzccsZUHFiOOqWJRDo-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-5" target="bbSzccsZUHFiOOqWJRDo-7">
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-46" target="bbSzccsZUHFiOOqWJRDo-7">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="403.35" y="430" as="sourcePoint" />
+            <mxPoint x="404" y="470" as="sourcePoint" />
             <mxPoint x="403.35" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-48" value="Проверены" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bbSzccsZUHFiOOqWJRDo-32">
+          <mxGeometry x="0.1483" y="-1" relative="1" as="geometry">
+            <mxPoint x="39" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-33" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-24" target="bbSzccsZUHFiOOqWJRDo-22">
@@ -38347,6 +38352,15 @@
         </mxCell>
         <mxCell id="bbSzccsZUHFiOOqWJRDo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-34" target="bbSzccsZUHFiOOqWJRDo-36">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-46" value="Решение &#xa;по СЭЗ" style="rhombus;" vertex="1" parent="GYyqu-Zr5i8pitDgQti0-1">
+          <mxGeometry x="357" y="409" width="94.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbSzccsZUHFiOOqWJRDo-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GYyqu-Zr5i8pitDgQti0-1" source="bbSzccsZUHFiOOqWJRDo-5" target="bbSzccsZUHFiOOqWJRDo-46">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="462" as="sourcePoint" />
+            <mxPoint x="404.06999999999994" y="406" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
