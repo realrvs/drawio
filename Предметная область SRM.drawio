@@ -8907,87 +8907,58 @@
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3057.620000000001" y="2922" as="targetPoint" />
+            <mxPoint x="3114.120000000001" y="2921.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wMpu2dDUfLlsih5XwTX0-64" target="wMpu2dDUfLlsih5XwTX0-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-64" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3041.62" y="2858" width="30" height="30" as="geometry" />
+          <mxGeometry x="3098.12" y="2857.33" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wMpu2dDUfLlsih5XwTX0-71" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3057.620000000001" y="2976" as="sourcePoint" />
+            <mxPoint x="3114.120000000001" y="2975.33" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-67" value="Согласование Начальником УПЗП" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2893.5" y="3160" width="108.75" height="50" as="geometry" />
+          <mxGeometry x="2950" y="3159.33" width="108.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-68" value="Согласование и утверждение внесения изменений в извещения ЗК-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2987.87" y="2805" width="130" height="30" as="geometry" />
+          <mxGeometry x="3044.37" y="2804.33" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-71" target="wMpu2dDUfLlsih5XwTX0-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-71" target="wMpu2dDUfLlsih5XwTX0-75" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3260" y="3034" />
-              <mxPoint x="3260" y="3125" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-71" value="привлечение &#xa;куратора ЭГ &#xa;требуется?" style="rhombus;" parent="1" vertex="1">
-          <mxGeometry x="2997.87" y="2985" width="117.5" height="98" as="geometry" />
+          <mxGeometry x="3054.37" y="2984.33" width="117.5" height="98" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-72" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3117.87" y="3000" width="40" height="30" as="geometry" />
+          <mxGeometry x="3174.37" y="2999.33" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-73" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2957.87" y="3000" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-75" target="wMpu2dDUfLlsih5XwTX0-99" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3059" y="3230" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="3014.37" y="2999.33" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-75" value="Согласование Начальником УПЗП" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3115.37" y="3100" width="108.75" height="50" as="geometry" />
+          <mxGeometry x="3171.87" y="3099.33" width="108.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-76" value="Согласование Куратором ЭГ" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3115.37" y="3160" width="108.75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wMpu2dDUfLlsih5XwTX0-76" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3257.87" y="3120" as="sourcePoint" />
-            <mxPoint x="3247.87" y="3230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3260" y="3120" />
-              <mxPoint x="3260" y="3185" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="3292.5699999999997" y="3099.33" width="108.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-79" target="wMpu2dDUfLlsih5XwTX0-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-79" value="Согласование Руководителем блока ОПиО" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2987.87" y="3300" width="144" height="50" as="geometry" />
+          <mxGeometry x="3044.37" y="3299.33" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="wMpu2dDUfLlsih5XwTX0-67" target="wMpu2dDUfLlsih5XwTX0-99" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3147.87" y="3050" as="sourcePoint" />
-            <mxPoint x="3057.87" y="3185" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-76" target="wMpu2dDUfLlsih5XwTX0-99" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3147.87" y="3050" as="sourcePoint" />
-            <mxPoint x="3057.87" y="3185" as="targetPoint" />
+            <mxPoint x="3204.37" y="3049.33" as="sourcePoint" />
+            <mxPoint x="3114.37" y="3184.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-82" value="Утверждение внесение изменений в извещение Председателем ЗК" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2987.87" y="3370" width="144" height="50" as="geometry" />
+          <mxGeometry x="3044.37" y="3369.33" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-86" target="wMpu2dDUfLlsih5XwTX0-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -9017,34 +8988,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-95" value="Секретарь ЗК отправляет изменения в извещение на согласование" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2985.62" y="2910" width="142" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-98" target="wMpu2dDUfLlsih5XwTX0-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="3042.12" y="2909.33" width="142" height="54" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-98" value="Согласование Начальником подразделения по экспертизе" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3115.37" y="3220" width="108.75" height="60" as="geometry" />
+          <mxGeometry x="3410" y="3094.33" width="108.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-99" target="wMpu2dDUfLlsih5XwTX0-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMpu2dDUfLlsih5XwTX0-99" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3044.87" y="3235" width="30" height="30" as="geometry" />
+          <mxGeometry x="3101.37" y="3234.33" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-105" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wMpu2dDUfLlsih5XwTX0-98" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3260" y="3180" as="sourcePoint" />
-            <mxPoint x="3290" y="3310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3260" y="3250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="wMpu2dDUfLlsih5XwTX0-109" target="wMpu2dDUfLlsih5XwTX0-98" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wMpu2dDUfLlsih5XwTX0-109" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;если&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;НМЦ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 70 млн. руб. без НДС под эту роль привлекается в зависимости от категории закупки:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗРиУ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗО&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗМ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="3207.94" y="3300" width="165" height="110" as="geometry" />
+        <mxCell id="wMpu2dDUfLlsih5XwTX0-109" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Привлекается, если&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;НМЦ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 70 млн. руб. без НДС,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;в зависимости от категории закупки под этой ролью осуществляет согласование:&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗРиУ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗО&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗМ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="3353.75" y="3209.33" width="165" height="140.67" as="geometry" />
         </mxCell>
         <mxCell id="NsmOKNeRu3lF29G8k_Wc-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2192.37" y="2964" width="3" height="221.74" as="geometry" />
@@ -9086,10 +9042,229 @@
         <mxCell id="NsmOKNeRu3lF29G8k_Wc-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2769.25" y="2965.34" width="3" height="221.74" as="geometry" />
         </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-22" target="wMpu2dDUfLlsih5XwTX0-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2774" y="3450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NsmOKNeRu3lF29G8k_Wc-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2772.09" y="3036.57" width="3" height="221.74" as="geometry" />
         </mxCell>
         <mxCell id="NsmOKNeRu3lF29G8k_Wc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.303;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wMpu2dDUfLlsih5XwTX0-53" target="NsmOKNeRu3lF29G8k_Wc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="3344.81" y="2909.81" width="3" height="346.13" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-28" target="wMpu2dDUfLlsih5XwTX0-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3346.9449999999997" y="3587.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="3345.445" y="2990.005" width="3" height="346.13" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wMpu2dDUfLlsih5XwTX0-98" target="wMpu2dDUfLlsih5XwTX0-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.125;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wMpu2dDUfLlsih5XwTX0-71" target="NsmOKNeRu3lF29G8k_Wc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-39" target="NsmOKNeRu3lF29G8k_Wc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-39" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4048.12" y="2859.34" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-41" target="5eikE5249EI4QHKoivz5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-41" value="Ответственный исполнитель направляет разъяснение на согласование Секретарю ЗК" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3993.41" y="2911.34" width="142" height="78.66" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-42" target="NsmOKNeRu3lF29G8k_Wc-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-42" value="Согласование Начальником ОЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4010.03" y="3196.3300000000004" width="108.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-43" value="Шаг 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3699.9999999999995" y="3025.87" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-45" target="NsmOKNeRu3lF29G8k_Wc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-45" value="привлечение &#xa;куратора ЭГ &#xa;требуется?" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="4152.49" y="3093.1600000000003" width="117.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-46" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4272.49" y="3108.1600000000003" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-47" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4112.49" y="3108.1600000000003" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-48" value="Публикация разъяснения" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3984.09" y="3330.64" width="160.63" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-68" target="NsmOKNeRu3lF29G8k_Wc-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-68" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4050.69" y="3280.0000000000005" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-75" value="Согласование Начальником ОЗ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4259.62" y="3196.3300000000004" width="108.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-76" value="Согласование Куратором ЭГ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4377.12" y="3196.3300000000004" width="108.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="4368.87" y="3073.5000000000005" width="3" height="221.74" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-79" target="NsmOKNeRu3lF29G8k_Wc-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4373.2" y="3555.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="4371.71" y="3144.7300000000005" width="3" height="221.74" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.303;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-45" target="NsmOKNeRu3lF29G8k_Wc-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-86" target="NsmOKNeRu3lF29G8k_Wc-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3910" y="3340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-86" value="Секретарь ЗК согласовывает разъяснение через &quot;Автосогласование&quot;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="3013.8700000000003" width="142" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NsmOKNeRu3lF29G8k_Wc-88" target="NsmOKNeRu3lF29G8k_Wc-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NsmOKNeRu3lF29G8k_Wc-88" value="Секретарь ЗК согласовывает разъяснение с направлением на дальнейший маршрут" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4123.24" y="3013.87" width="176" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-1" target="NsmOKNeRu3lF29G8k_Wc-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-1" target="NsmOKNeRu3lF29G8k_Wc-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4048.12" y="3025.87" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-16" value="Согласование разъяснений при ЗК-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3999.41" y="2815" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-17" value="Шаг 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3700" y="3200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-20" target="5eikE5249EI4QHKoivz5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-20" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4878.12" y="2859.52" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-22" target="5eikE5249EI4QHKoivz5-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-22" value="Ответственный исполнитель направляет разъяснение на согласование Секретарю ЗК" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4823.41" y="2911.52" width="142" height="78.66" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-24" target="5eikE5249EI4QHKoivz5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-24" value="Согласование Начальником УПЗП" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4840.030000000001" y="3196.51" width="108.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-26" target="5eikE5249EI4QHKoivz5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-26" value="привлечение &#xa;куратора ЭГ &#xa;требуется?" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="4982.49" y="3093.34" width="117.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-27" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5102.49" y="3108.34" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-28" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4942.49" y="3108.34" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-29" value="Публикация разъяснения" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4814.09" y="3330.8199999999997" width="160.63" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-31" target="5eikE5249EI4QHKoivz5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4880.6900000000005" y="3280.1800000000003" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5eikE5249EI4QHKoivz5-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5203.2" y="3556.02" as="targetPoint" />
+            <mxPoint x="5092.34" y="3255.8" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-39" target="5eikE5249EI4QHKoivz5-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4740" y="3340.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-39" value="Секретарь ЗК согласовывает разъяснение через &quot;Автосогласование&quot;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="3014.05" width="142" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-41" target="5eikE5249EI4QHKoivz5-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-41" value="Секретарь ЗК согласовывает разъяснение с направлением на дальнейший маршрут" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="4953.24" y="3014.0499999999997" width="176" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-44" target="5eikE5249EI4QHKoivz5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-44" target="5eikE5249EI4QHKoivz5-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-44" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4878.12" y="3026.0499999999997" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-45" value="Согласование разъяснений при ЗК-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4829.41" y="2815.18" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-46" value="Шаг 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3026.05" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-47" value="Шаг 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="3200.1800000000003" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-48" value="Согласование Начальником УПЗП" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="3190.935" width="108.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-49" value="Согласование Куратором ЭГ" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="5210.7" y="3190.935" width="108.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-50" value="Согласование Начальником подразделения по экспертизе" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="5328.13" y="3185.935" width="108.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5313" y="3290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-51" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Привлекается, если&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;НМЦ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 70 млн. руб. без НДС,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;в зависимости от категории закупки под этой ролью осуществляет согласование:&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗРиУ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗО&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Начальник УЗМ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="5270" y="3270.01" width="166.88" height="140.67" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="5262.94" y="3001.415" width="3" height="346.13" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="5263.575" y="3081.61" width="3" height="346.13" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-50" target="5eikE5249EI4QHKoivz5-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eikE5249EI4QHKoivz5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.26;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5eikE5249EI4QHKoivz5-26" target="5eikE5249EI4QHKoivz5-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
