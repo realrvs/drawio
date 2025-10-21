@@ -24452,7 +24452,7 @@
         <mxCell id="VhwXgf6VETqIj4fwYxma-0" />
         <mxCell id="VhwXgf6VETqIj4fwYxma-1" parent="VhwXgf6VETqIj4fwYxma-0" />
         <mxCell id="VhwXgf6VETqIj4fwYxma-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="VhwXgf6VETqIj4fwYxma-1" vertex="1">
-          <mxGeometry x="259" y="110" width="481" height="600" as="geometry" />
+          <mxGeometry x="259" y="110" width="481" height="550" as="geometry" />
         </mxCell>
         <mxCell id="VhwXgf6VETqIj4fwYxma-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.003;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" parent="VhwXgf6VETqIj4fwYxma-1" source="VhwXgf6VETqIj4fwYxma-10" target="VhwXgf6VETqIj4fwYxma-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24538,7 +24538,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VhwXgf6VETqIj4fwYxma-25" value="RabbitMQ" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" parent="VhwXgf6VETqIj4fwYxma-1" vertex="1">
-          <mxGeometry x="305" y="670" width="250" height="20" as="geometry" />
+          <mxGeometry x="305" y="610" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VhwXgf6VETqIj4fwYxma-26" value="Business Logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="VhwXgf6VETqIj4fwYxma-1" vertex="1">
           <mxGeometry x="370" y="333" width="120" height="40" as="geometry" />
