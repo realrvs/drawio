@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="149">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9" pages="149">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24447,7 +24447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ОД8 Рис 2" id="2_-lPEM5oqXaEA5GzqTZ">
-    <mxGraphModel dx="1588" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1370" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VhwXgf6VETqIj4fwYxma-0" />
         <mxCell id="VhwXgf6VETqIj4fwYxma-1" parent="VhwXgf6VETqIj4fwYxma-0" />
@@ -24517,7 +24517,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhwXgf6VETqIj4fwYxma-19" value="Clickhouse&lt;div&gt;(?)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="VhwXgf6VETqIj4fwYxma-1" vertex="1">
+        <mxCell id="VhwXgf6VETqIj4fwYxma-19" value="Clickhouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="VhwXgf6VETqIj4fwYxma-1" vertex="1">
           <mxGeometry x="635" y="450" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VhwXgf6VETqIj4fwYxma-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="VhwXgf6VETqIj4fwYxma-1" target="VhwXgf6VETqIj4fwYxma-19" edge="1">
