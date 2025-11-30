@@ -41906,7 +41906,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZjaR6TZ4o50Rs1ZvAcSL" name="МСП ">
-    <mxGraphModel dx="4292" dy="3011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3210" dy="2435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43092,6 +43092,15 @@
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-290" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="231.42" y="1700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-291" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4120" y="900" as="sourcePoint" />
+            <mxPoint x="4170" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-293" value="Не стала вставлять в ЧТЗ МСП, так как повторяет СО для всех (задвоение повышает риск неточностей и ошибок) + необходимо добавить протоколы" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4549" y="185" width="885" height="885" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
