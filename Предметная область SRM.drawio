@@ -41906,7 +41906,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZjaR6TZ4o50Rs1ZvAcSL" name="МСП ">
-    <mxGraphModel dx="1906" dy="2182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2383" dy="2435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42551,44 +42551,6 @@
         <mxCell id="AeFZrKFWfBGSOeL7HEX0-61" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Разъяснения / внесение изменений в ДоЗ (опционально)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="678.81" y="466.5" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-8" target="o4KxVKujodiFun3iCvC7-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Экспертиза первых частей заявок / окончательных предложений после дозапроса&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1150.88" y="1842.5" width="179.12" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-13" target="o4KxVKujodiFun3iCvC7-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1071.2608695652175" y="1990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-13" value="Дозапрос" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1048.81" y="1840" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-14" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Признание закупки несостоявшейся&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="1850" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-15" value="Менее 2-х заявок" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1337.56" y="1790" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-17" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1075.69" y="1910" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-20" value="Более 2-х заявок" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1157.56" y="1933.75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1530" y="1870" as="sourcePoint" />
-            <mxPoint x="1580" y="1870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-22" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1561.62" y="1875" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="o4KxVKujodiFun3iCvC7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220.13" y="730" as="targetPoint" />
@@ -42599,86 +42561,30 @@
             <mxPoint x="306.13" y="645" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1118" y="1990" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1204" y="1960" />
-              <mxPoint x="1118" y="1960" />
-            </Array>
-            <mxPoint x="1204.13" y="1897.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1097.5600000000004" y="2050" as="sourcePoint" />
-            <mxPoint x="1097.5600000000004" y="2093.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-30" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Открытие доступа ко вторым частям заявок и ЦП&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="1990" width="280" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="o4KxVKujodiFun3iCvC7-31" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Экспертиза вторых частей заявок и ЦП &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;(отборочная стадия), в т.ч. аккредитация (при необходимости)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="2083.75" width="280" height="46.25" as="geometry" />
+          <mxGeometry x="671.9799999999999" y="1508.43" width="211.19" height="71.57" as="geometry" />
         </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1097.56" y="2180" as="targetPoint" />
-            <mxPoint x="1097.56" y="2140" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-38" target="o4KxVKujodiFun3iCvC7-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-38" edge="1">
+        <mxCell id="o4KxVKujodiFun3iCvC7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1137.56" y="2340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1223.56" y="2300" />
               <mxPoint x="1137.56" y="2300" />
             </Array>
+            <mxPoint x="1223.4999999999995" y="2255" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-38" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Экспертиза вторых частей заявок и ЦП после дозапроса&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1175.31" y="2185" width="122.25" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-41" target="o4KxVKujodiFun3iCvC7-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-41" edge="1">
+        <mxCell id="o4KxVKujodiFun3iCvC7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1097.56" y="2340" as="targetPoint" />
+            <mxPoint x="1097.5600000000004" y="2260" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-41" value="Дозапрос" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1057.56" y="2180" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-43" target="o4KxVKujodiFun3iCvC7-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-43" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Признание закупки несостоявшейся&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1387.56" y="2200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-44" value="Менее 2-х заявок" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1307.56" y="2190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-45" value="Да" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1127.56" y="2190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-46" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1082.56" y="2260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-47" value="Более 2-х заявок" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1148.81" y="2270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o4KxVKujodiFun3iCvC7-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1108.8588235294117" y="2850" as="sourcePoint" />
             <mxPoint x="1108.8588235294117" y="2890" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="o4KxVKujodiFun3iCvC7-53" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1527.56" y="2205" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o4KxVKujodiFun3iCvC7-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o4KxVKujodiFun3iCvC7-55" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -42896,7 +42802,7 @@
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-16" target="1wgi2Vocr4XMYHzz1mAU-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-16" value="Протокол о рассмотрении первых частей заявок" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-16" value="Протокол рассмотрения первых частей заявок" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2943" y="752.75" width="190" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-18" value="Да" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -43009,7 +42915,7 @@
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-79" target="AeFZrKFWfBGSOeL7HEX0-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-79" value="Предзаявочное&amp;nbsp;&lt;div&gt;обсуждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;(опционально)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-79" value="Предзаявочное&amp;nbsp;&lt;div&gt;обсуждение&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="749.4000000000001" y="290" width="138.81" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-86" value="Да" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -43032,7 +42938,7 @@
             <mxPoint x="747.5700000000002" y="1157.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-91" value="&lt;div&gt;Обсуждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;заявок&lt;/div&gt;&lt;div&gt;(опционально)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-91" value="&lt;div&gt;Обсуждение&amp;nbsp;&lt;/div&gt;&lt;div&gt;заявок&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="683.79" y="918.75" width="127.57" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-93" target="m4Ss4v4oqzmS9HsNV2x9-94">
@@ -43134,19 +43040,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-136" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Открытие доступа ко вторым частям заявок и ЦП&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="664" y="1543.7600000000002" width="280" height="56.25" as="geometry" />
+          <mxGeometry x="937.05" y="1510" width="188.13" height="71.57" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-140" target="m4Ss4v4oqzmS9HsNV2x9-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-140" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Экспертиза первых частей заявок после дозапроса (опционально)&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;align=center;" vertex="1" parent="1">
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-140" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Экспертиза первых частей заявок / окончательных предложений после дозапроса (опционально)&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="873.31" y="1371.8700000000001" width="280" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-142" target="m4Ss4v4oqzmS9HsNV2x9-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-142" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Дозапрос (опционально)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1370" width="110" height="60" as="geometry" />
+          <mxGeometry x="698.13" y="1370" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-145" target="m4Ss4v4oqzmS9HsNV2x9-147">
           <mxGeometry relative="1" as="geometry" />
@@ -43169,14 +43075,61 @@
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-150" target="m4Ss4v4oqzmS9HsNV2x9-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-150" value="Протокол рассмотрения первых частей заявок" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1193.13" y="1510" width="190" height="62.5" as="geometry" />
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-150" value="Протокол рассмотрения первых частей заявок / окончательных предложений" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1173.81" y="1510" width="226.42" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-151" value="Да" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1341.49" y="1365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m4Ss4v4oqzmS9HsNV2x9-152" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="1460" width="60" height="30" as="geometry" />
+          <mxGeometry x="1281.49" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="m4Ss4v4oqzmS9HsNV2x9-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="748.18" y="1310" as="sourcePoint" />
+            <mxPoint x="747.61" y="1363" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-156" target="m4Ss4v4oqzmS9HsNV2x9-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-156" value="&lt;div style=&quot;&quot;&gt;Экспертиза вторых частей заявок и ЦП после дозапроса (опционально)&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1641.87" width="230" height="58.13" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-158" target="m4Ss4v4oqzmS9HsNV2x9-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-158" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Дозапрос (опционально)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="698.13" y="1640" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-160" target="m4Ss4v4oqzmS9HsNV2x9-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-160" value="Допущено&lt;div&gt;менее&amp;nbsp;&lt;/div&gt;&lt;div&gt;2-х заявок&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1620" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m4Ss4v4oqzmS9HsNV2x9-162" target="m4Ss4v4oqzmS9HsNV2x9-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-162" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Протокол о признании закупки несостоявшейся&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1379.4299999999998" y="1640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-163" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1595.87" y="1655" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-164" value="Да" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1313.3600000000001" y="1635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-165" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1266.87" y="1730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m4Ss4v4oqzmS9HsNV2x9-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746.92" y="1581" as="sourcePoint" />
+            <mxPoint x="746.74" y="1640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
