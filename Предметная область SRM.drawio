@@ -43180,7 +43180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UnNwQpY6UMfftMknUAAw" name="Состязательный отбор">
-    <mxGraphModel dx="657" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43266,7 +43266,7 @@
         <mxCell id="jNJTnufPTk1U_aYFltwW-101" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Состязательный отбор" vertex="1">
           <mxGeometry height="30" width="150" x="280" y="152" as="geometry" />
         </mxCell>
-        <mxCell id="jNJTnufPTk1U_aYFltwW-225" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Проверка НМЦ &amp;lt; порогу&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="jNJTnufPTk1U_aYFltwW-225" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Проверка НМЦ&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;YS Text&amp;quot;, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;&amp;nbsp;порогу&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="270" y="810" as="geometry" />
         </mxCell>
         <mxCell id="jNJTnufPTk1U_aYFltwW-226" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Наличие обоснования&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -43300,6 +43300,9 @@
         </mxCell>
         <mxCell id="jNJTnufPTk1U_aYFltwW-237" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="jNJTnufPTk1U_aYFltwW-7" value="">
           <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="493" y="880" />
+            </Array>
             <mxPoint x="490" y="880" as="sourcePoint" />
             <mxPoint x="640" y="980" as="targetPoint" />
           </mxGeometry>
@@ -43494,7 +43497,7 @@
         <mxCell id="jNJTnufPTk1U_aYFltwW-314" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Проведение переторжки&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="170" x="950" y="2170" as="geometry" />
         </mxCell>
-        <mxCell id="jNJTnufPTk1U_aYFltwW-319" parent="1" style="rhombus;" value="Закупка состоялась &gt; 2 соответствующих заявок" vertex="1">
+        <mxCell id="jNJTnufPTk1U_aYFltwW-319" parent="1" style="rhombus;" value="Закупка состоялась ≥ 2 соответствующих заявок" vertex="1">
           <mxGeometry height="110" width="380" x="350" y="2290" as="geometry" />
         </mxCell>
         <mxCell id="jNJTnufPTk1U_aYFltwW-320" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Нет" vertex="1">
@@ -43613,7 +43616,7 @@
           <mxGeometry relative="1" width="160" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="2715" />
-              <mxPoint x="29" y="608.5" />
+              <mxPoint x="30" y="612" />
             </Array>
             <mxPoint x="-90" y="2706.5" as="sourcePoint" />
             <mxPoint x="430" y="603.5" as="targetPoint" />
