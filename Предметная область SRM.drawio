@@ -43849,7 +43849,7 @@
             <mxPoint x="1100" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Сервис &quot;Аккредитация участников&quot; в рамках экспертизы:&amp;nbsp;&lt;div&gt;- эксперт по &quot;Организационному&quot; направлению (ОРГ) из своего ИЭЗ инициирует&lt;/div&gt;&lt;div&gt;&amp;nbsp;аккредитацию или актуализацию оценки финансового состояния из Реестра аккредитации,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Секретарь ЗК инициирует актуализацию статуса аккредитации или&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="xtUyde7c9LykvUExIsOx-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Сервис &quot;Аккредитация участников&quot; в рамках экспертизы:&amp;nbsp;&lt;div&gt;- эксперт по &quot;Организационному&quot; направлению (ОРГ) из своего ИЭЗ инициирует&lt;/div&gt;&lt;div&gt;&amp;nbsp;аккредитацию или актуализацию оценки финансового состояния из Реестра аккредитации,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Секретарь ЗК инициирует актуализацию статуса аккредитации&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="540" x="836.5" y="25" as="geometry" />
         </mxCell>
         <mxCell id="xtUyde7c9LykvUExIsOx-22" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.128;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="xtUyde7c9LykvUExIsOx-4" value="">
@@ -43870,11 +43870,23 @@
             <mxPoint x="400" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Сервисы &quot;Справочники&quot; (справочники)&amp;nbsp;&lt;div&gt;и &quot;Отчеты&quot; (формирование документов на&amp;nbsp;&lt;/div&gt;&lt;div&gt;основании шаблонов и данных системы&quot;)?&lt;/div&gt;" vertex="1">
+        <mxCell id="xtUyde7c9LykvUExIsOx-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Сервисы &quot;Справочники&quot; (справочники)&amp;nbsp;&lt;div&gt;и &quot;Отчеты&quot; (формирование документов на&amp;nbsp;&lt;/div&gt;&lt;div&gt;основании шаблонов и данных системы)?&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="260" x="330" y="30" as="geometry" />
         </mxCell>
         <mxCell id="xtUyde7c9LykvUExIsOx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#fe0101, #ededed);" value="" vertex="1">
           <mxGeometry height="220" width="245" x="1295" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="9c2UsfPT4VuDTs12pZMh-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="900" />
+            </Array>
+            <mxPoint x="1580" y="1060" as="sourcePoint" />
+            <mxPoint x="1480" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9c2UsfPT4VuDTs12pZMh-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="По закупкам в бумажной форме&lt;div&gt;&amp;nbsp;эти объекты формирует и вносит&amp;nbsp;&lt;/div&gt;&lt;div&gt;информацию по ним секретарь ЗК&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="1390" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
