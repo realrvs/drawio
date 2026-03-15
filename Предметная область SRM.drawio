@@ -43648,7 +43648,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UlMStV5RldGW7tpFPnmu" name="2.16 (2.14) Проведение закупок &lt;тип схемы&gt;">
-    <mxGraphModel dx="1898" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43661,7 +43661,7 @@
         <mxCell id="3iiTJX7IY-JJ4vtSVwZv-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;Секретарь ЗК&lt;/p&gt;" vertex="1">
           <mxGeometry height="70" width="30" x="260" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" target="3iiTJX7IY-JJ4vtSVwZv-1" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;согласование и голосование&lt;/p&gt;">
+        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" target="3iiTJX7IY-JJ4vtSVwZv-1" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;согласование и утверждение&lt;/p&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="415" />
@@ -43680,10 +43680,10 @@
             <mxPoint x="410" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-18" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Подготовка к закупке (ПЗД)&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Источник данных о закупке, ЭГ и комиссии&lt;/p&gt;" vertex="1">
+        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-18" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Планирование покупок&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Лоты, контейнеры, план закупок,планируемый способ закупки&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="40" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-19" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="данные&amp;nbsp;&lt;div&gt;ПЗД&lt;/div&gt;">
+        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-19" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;лоты, план закупок,способ закупки&lt;/p&gt;">
           <mxGeometry relative="1" width="80" x="-0.2223" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -43693,8 +43693,8 @@
             <mxPoint x="320" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-21" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Экспертиза&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;ИЭЗ/СЭЗ до дозапросов, ИЭЗ/СЭЗ после дозапросов, ИЭЗ/СЭЗ после переторжки, состав ЭГ, реестр экспертов, дозапросы и ответы на дозапросы, статусы и прогресс экспертизы&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="293" x="960" y="140" as="geometry" />
+        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-21" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Экспертиза&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;ИЭЗ/СЭЗ (в т.ч. доп. и переторжка), замечания,\nбаллы, ПП-1875, состав ЭГ, реестр экспертов,\nзамены, дозапросы/ответы, статусы и прогресс&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="293" x="950" y="140" as="geometry" />
         </mxCell>
         <mxCell id="3iiTJX7IY-JJ4vtSVwZv-22" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-21" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;align=center;" target="3iiTJX7IY-JJ4vtSVwZv-1" value="чтение результатов&amp;nbsp;&lt;div&gt;экспертизы&lt;/div&gt;">
           <mxGeometry relative="1" width="80" x="0.3151" as="geometry">
@@ -43726,29 +43726,28 @@
             <mxPoint x="800" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-30" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;ЕЭТП (Росэлторг)&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Публикация извещений/протоколов,получение конвертов и заявок&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="240" x="960" y="750" as="geometry" />
+        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-30" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;ЕЭТП (Росэлторг)&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Направляем: извещения о проведении, изменения,отказ от закупки, разъяснения ДоЗ, протоколы,дозапросы (Экспертиза).Получаем: запросы на разъяснение,конверты с заявками, ответы на дозапросы,конверты со ставками по переторжке,ставки по аукциону&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="240" x="960" y="750" as="geometry" />
         </mxCell>
         <mxCell id="3iiTJX7IY-JJ4vtSVwZv-31" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="3iiTJX7IY-JJ4vtSVwZv-30" value="публикация и обмен">
           <mxGeometry relative="1" width="80" x="0.2804" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="613" y="790" />
+              <mxPoint x="610" y="805" />
             </Array>
             <mxPoint x="570" y="490" as="sourcePoint" />
             <mxPoint x="650" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-33" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;РАД (Российский аукционный дом)&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Публикация извещений/протоколов,получение конвертов и заявок&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="240" x="960" y="870" as="geometry" />
+        <mxCell id="3iiTJX7IY-JJ4vtSVwZv-33" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;РАД (Российский аукционный дом)&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: start; background-color: transparent;&quot;&gt;Направляем: извещения о проведении, изменения,отказ от закупки, разъяснения ДоЗ, протоколы,дозапросы (Экспертиза).Получаем: запросы на разъяснение,конверты с заявками, ответы на дозапросы,конверты со ставками по переторжке,ставки по аукциону&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="960" y="870" as="geometry" />
         </mxCell>
         <mxCell id="3iiTJX7IY-JJ4vtSVwZv-34" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="3iiTJX7IY-JJ4vtSVwZv-33" value="публикация и обмен">
           <mxGeometry relative="1" width="80" x="0.3651" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="515" y="910" />
-              <mxPoint x="670" y="910" />
-              <mxPoint x="840" y="910" />
+              <mxPoint x="510" y="920" />
+              <mxPoint x="670" y="920" />
             </Array>
             <mxPoint x="893" y="460" as="sourcePoint" />
             <mxPoint x="1080" y="630" as="targetPoint" />
@@ -43767,101 +43766,30 @@
             <mxPoint x="1230" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Состав ЗК (комиссии)&amp;nbsp;&lt;div&gt;тянется из&amp;nbsp;&lt;div&gt;Планирования&amp;nbsp;&lt;/div&gt;&lt;div&gt;(из согласованного лота))&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="170" y="515" as="geometry" />
+        <mxCell id="_eoOIY3lQiaXM72vpwJn-1" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;b&gt;Подготовка к закупке (ПЗД)&lt;/b&gt;&amp;nbsp;&lt;div&gt;Источник данных для закупки,экспертной группы и комиссии&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="40" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Пропущен блок сервиса &quot;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(250, 0, 0), rgb(237, 237, 237));&quot;&gt;Планирование закупок&quot;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(250, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;(множество данных подтягиваются&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(250, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;в объекты сервиса&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(250, 0, 0), rgb(237, 237, 237));&quot;&gt;Проведение закупок из лота закупки)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="330" x="20" y="880" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Дублирование одного&amp;nbsp;&lt;div&gt;и того же блока (ниже)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="150" x="1200" y="660" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-10" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-18" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.458;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="180" y="545" as="sourcePoint" />
-            <mxPoint x="90" y="585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Председатель ЗК еще&amp;nbsp;&lt;div&gt;утверждает документы&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="150" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="100" y="330" as="sourcePoint" />
-            <mxPoint x="110" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-13" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);exitX=1;exitY=0.75;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="480" y="420" as="sourcePoint" />
-            <mxPoint x="800" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Основополагающий объект - Сведения о закупке&amp;nbsp;&lt;div&gt;(можно сказать, что это сама закупка в Реестре закупок,&amp;nbsp;&lt;/div&gt;&lt;div&gt;он формируется на основании данных лота и ПЗД после&amp;nbsp;&lt;/div&gt;&lt;div&gt;согласования/верификации ПЗД, после чего на разных&amp;nbsp;&lt;/div&gt;&lt;div&gt;вкладках БО &quot;Сведения о закупке&quot; создаются&amp;nbsp;&lt;/div&gt;&lt;div&gt;Извещения, запросы на разъяснение документации и т.д.)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="350" x="790" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#299004, #ededed);" value="Получаем от ЭТП:&lt;div&gt;- Запросы на разъяснение&lt;/div&gt;&lt;div&gt;- Конверты с заявками&lt;/div&gt;&lt;div&gt;- Ответы на дозапросы (Экспертиза)&lt;/div&gt;&lt;div&gt;- Конверты со ставками по переторжке&lt;/div&gt;&lt;div&gt;- Ставки по аукциону&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="240" x="1305" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Направляем ЭТП:&lt;div&gt;- Извещения о проведении&lt;/div&gt;&lt;div&gt;- Изменения в Извещения о проведении&lt;/div&gt;&lt;div&gt;- Извещения об отказе от закупки&lt;/div&gt;&lt;div&gt;- Разъяснения ДоЗ&lt;/div&gt;&lt;div&gt;- Протоколы&lt;/div&gt;&lt;div&gt;- Дозапросы (Экспертиза)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="250" x="1295" y="770" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-18" edge="1" parent="1" source="xtUyde7c9LykvUExIsOx-26" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="3iiTJX7IY-JJ4vtSVwZv-30" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1240" y="850" as="sourcePoint" />
-            <mxPoint x="1123" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-19" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-33" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="xtUyde7c9LykvUExIsOx-26" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1253" y="900" as="sourcePoint" />
-            <mxPoint x="1222.0500000000002" y="542.44" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);startSize=2;endSize=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1100" y="100" as="sourcePoint" />
-            <mxPoint x="1100" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Сервис &quot;Аккредитация участников&quot; в рамках экспертизы:&amp;nbsp;&lt;div&gt;- эксперт по &quot;Организационному&quot; направлению (ОРГ) из своего ИЭЗ инициирует&lt;/div&gt;&lt;div&gt;&amp;nbsp;аккредитацию или актуализацию оценки финансового состояния из Реестра аккредитации,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Секретарь ЗК инициирует актуализацию статуса аккредитации&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="540" x="836.5" y="25" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-22" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.128;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="xtUyde7c9LykvUExIsOx-4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="370" y="840" as="sourcePoint" />
-            <mxPoint x="280" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-23" edge="1" parent="1" source="xtUyde7c9LykvUExIsOx-4" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.462;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="215" y="775" as="sourcePoint" />
-            <mxPoint x="155" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);entryX=0.385;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="3iiTJX7IY-JJ4vtSVwZv-1" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="430" y="90" as="sourcePoint" />
-            <mxPoint x="400" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="Сервисы &quot;Справочники&quot; (справочники)&amp;nbsp;&lt;div&gt;и &quot;Отчеты&quot; (формирование документов на&amp;nbsp;&lt;/div&gt;&lt;div&gt;основании шаблонов и данных системы)?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="330" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xtUyde7c9LykvUExIsOx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#fe0101, #ededed);" value="" vertex="1">
-          <mxGeometry height="220" width="245" x="1295" y="770" as="geometry" />
-        </mxCell>
-        <mxCell id="9c2UsfPT4VuDTs12pZMh-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#ff0000, #ededed);labelBorderColor=light-dark(#fa0000, #ededed);strokeColor=light-dark(#ff0000, #ededed);" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="_eoOIY3lQiaXM72vpwJn-2" edge="1" parent="1" source="_eoOIY3lQiaXM72vpwJn-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.099;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="3iiTJX7IY-JJ4vtSVwZv-1" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); white-space: normal;&quot;&gt;сведения о закупке,&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); white-space: normal;&quot;&gt;ЭГ и комиссия&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.0003" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1580" y="900" />
+              <mxPoint x="359" y="845" />
             </Array>
-            <mxPoint x="1580" y="1060" as="sourcePoint" />
-            <mxPoint x="1480" y="900" as="targetPoint" />
+            <mxPoint x="310.0018023022735" y="1008.83" as="sourcePoint" />
+            <mxPoint x="498.68000000000006" y="529.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9c2UsfPT4VuDTs12pZMh-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#fa0000, #ededed);" value="По закупкам в бумажной форме&lt;div&gt;&amp;nbsp;эти объекты формирует и вносит&amp;nbsp;&lt;/div&gt;&lt;div&gt;информацию по ним секретарь ЗК&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="220" x="1390" y="1060" as="geometry" />
+        <mxCell id="_eoOIY3lQiaXM72vpwJn-3" parent="1" style="html=1;whiteSpace=wrap;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Внутренние сервисы АИСУЗ&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Справочники и НСИ, конструктор согласования,аккредитация участников, отчеты и шаблоны,жалобы, договоры&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="300" x="960" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_eoOIY3lQiaXM72vpwJn-4" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" target="_eoOIY3lQiaXM72vpwJn-3" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; color: rgb(0, 0, 0); white-space: normal;&quot;&gt;внутренние сервисные интеграции&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="610" />
+            </Array>
+            <mxPoint x="670" y="540" as="sourcePoint" />
+            <mxPoint x="750" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
