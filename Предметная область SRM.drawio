@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="153">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1" pages="153">
   <diagram name="Сущности" id="esNg1MqTvClRY21yRmVA">
     <mxGraphModel dx="1386" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43495,7 +43495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UlMStV5RldGW7tpFPnmu" name="2.16 (2.14) Проведение закупок &lt;тип схемы&gt;">
-    <mxGraphModel dx="1007" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2656" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43636,6 +43636,21 @@
             </Array>
             <mxPoint x="670" y="540" as="sourcePoint" />
             <mxPoint x="750" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cebbx5x7eqWscngavImZ-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0A02;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="980" as="sourcePoint" />
+            <mxPoint x="350" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cebbx5x7eqWscngavImZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0E06;" value="ЗК (комиссия) тянется из лота. Из ПЗД тянутся: часть сведений о закупке, состав ЭГ и критерии оценки (если есть)" vertex="1">
+          <mxGeometry height="30" width="150" x="120" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="cebbx5x7eqWscngavImZ-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0A02;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="690" as="sourcePoint" />
+            <mxPoint x="340" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
