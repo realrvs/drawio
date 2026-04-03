@@ -6974,16 +6974,16 @@
         <mxCell id="k8yx1EK7kcuIRx0J4Hbr-3" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;ИА&lt;/b&gt;&lt;div&gt;(вышестоящая для Филиалов)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="187" x="-46" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="k8yx1EK7kcuIRx0J4Hbr-6" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;Филиал &lt;/b&gt;1" vertex="1">
+        <mxCell id="k8yx1EK7kcuIRx0J4Hbr-6" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;Филиал ПО&amp;nbsp;&lt;/b&gt;1" vertex="1">
           <mxGeometry height="40" width="133" x="-86.5" y="417" as="geometry" />
         </mxCell>
         <mxCell id="k8yx1EK7kcuIRx0J4Hbr-8" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="Контролирующая&lt;div&gt;АО РГС&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="170" x="-180" y="166" as="geometry" />
         </mxCell>
         <mxCell id="k8yx1EK7kcuIRx0J4Hbr-9" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;strike&gt;Вышестоящая&lt;/strike&gt;&lt;div&gt;ПАО РусГидро&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="170" x="-280" y="286" as="geometry" />
+          <mxGeometry height="50" width="170" x="-332.5" y="286" as="geometry" />
         </mxCell>
-        <mxCell id="k8yx1EK7kcuIRx0J4Hbr-10" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;Филиал &lt;/b&gt;2" vertex="1">
+        <mxCell id="k8yx1EK7kcuIRx0J4Hbr-10" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;Филиал ПО&amp;nbsp;&lt;/b&gt;2" vertex="1">
           <mxGeometry height="40" width="133" x="57" y="417" as="geometry" />
         </mxCell>
         <mxCell id="k8yx1EK7kcuIRx0J4Hbr-13" parent="1" style="html=1;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=1 4;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="как можно создавать лоты, контейнеры" vertex="1">
@@ -7069,6 +7069,15 @@
         </mxCell>
         <mxCell id="-1U7wwAFfQ4DnpvdGT2D-3" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="Агент (по инвест. лотам)&lt;div&gt;АО &quot;УК ГидроОГК&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="170" x="20" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="BeRk8BLAql6jwBvKYMqN-1" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;ИА&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="187" x="-349.5" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="BeRk8BLAql6jwBvKYMqN-2" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;Филиал&amp;nbsp;&lt;/b&gt;1" vertex="1">
+          <mxGeometry height="40" width="133" x="-390" y="419" as="geometry" />
+        </mxCell>
+        <mxCell id="BeRk8BLAql6jwBvKYMqN-3" parent="1" style="html=1;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;Филиал&amp;nbsp;&lt;/b&gt;2" vertex="1">
+          <mxGeometry height="40" width="133" x="-246.5" y="419" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
