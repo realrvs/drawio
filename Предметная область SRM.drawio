@@ -43999,7 +43999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UlMStV5RldGW7tpFPnmu" name="2.16 (2.14) Проведение закупок &lt;тип схемы&gt;">
-    <mxGraphModel dx="2656" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44142,19 +44142,22 @@
             <mxPoint x="750" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cebbx5x7eqWscngavImZ-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0A02;" value="">
+        <mxCell id="aviHf2fQo9xrrxHrJEOf-2" edge="1" parent="1" source="3iiTJX7IY-JJ4vtSVwZv-18" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#ff0505, #ededed);entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_eoOIY3lQiaXM72vpwJn-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="270" y="980" as="sourcePoint" />
-            <mxPoint x="350" y="690" as="targetPoint" />
+            <mxPoint x="130" y="780" as="sourcePoint" />
+            <mxPoint x="190" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cebbx5x7eqWscngavImZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0E06;" value="ЗК (комиссия) тянется из лота. Из ПЗД тянутся: часть сведений о закупке, состав ЭГ и критерии оценки (если есть)" vertex="1">
-          <mxGeometry height="30" width="150" x="120" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="cebbx5x7eqWscngavImZ-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0A02;" value="">
+        <mxCell id="aviHf2fQo9xrrxHrJEOf-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#fc0303, #ededed);" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="380" y="690" as="sourcePoint" />
-            <mxPoint x="340" y="690" as="targetPoint" />
+            <mxPoint x="135" y="570" as="sourcePoint" />
+            <mxPoint x="185" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aviHf2fQo9xrrxHrJEOf-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#fc0303, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="570" as="sourcePoint" />
+            <mxPoint x="130" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
